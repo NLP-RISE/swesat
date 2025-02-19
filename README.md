@@ -15,8 +15,10 @@ If you use SweSAT-1.0 in your research, please cite:
 ```
 @article{SweSAT2024,
   title={SweSAT-1.0: The Swedish University Entrance Exam as a Benchmark for Large Language Models},
-  author={Kurfalı, Murathan and Zahra, Shorouq and Gogoulou, Evangelia and others},
-  journal={arXiv preprint},
-  year={2024}
+  author={Kurfalı, Murathan and Zahra, Shorouq and Gogoulou, Evangelia and Dürlich, Luise and Carlsson, Fredrik and Nivre, Joakim},
+  booktitle = "Proceedings of The Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)",
+  month = march,
+  year = "2025",
+  address = "Talinn, Estonia"
 }
 ```
