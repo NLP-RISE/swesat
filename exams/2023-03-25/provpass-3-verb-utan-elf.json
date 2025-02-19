@@ -1,0 +1,122 @@
+[
+    {
+        "question_number": 1,
+        "question": "förespråka",
+        "answers": {
+            "A": "reflektera",
+            "B": "reservera",
+            "C": "rekommendera",
+            "D": "resonera",
+            "E": "regissera"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 2,
+        "question": "obefogad",
+        "answers": {
+            "A": "grundlös",
+            "B": "maktlös",
+            "C": "ansvarslös",
+            "D": "gränslös",
+            "E": "meningslös"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 3,
+        "question": "emballage",
+        "answers": {
+            "A": "symbol",
+            "B": "förpackning",
+            "C": "underhåll",
+            "D": "avspärrning",
+            "E": "handelsförbud"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 4,
+        "question": "tidvis",
+        "answers": {
+            "A": "ofta",
+            "B": "förut",
+            "C": "punktligt",
+            "D": "ibland",
+            "E": "numera"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 5,
+        "question": "framfusig",
+        "answers": {
+            "A": "nytänkande",
+            "B": "självsäker",
+            "C": "uppjagad",
+            "D": "förväntansfull",
+            "E": "påträngande"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 6,
+        "question": "extravagans",
+        "answers": {
+            "A": "överdåd",
+            "B": "värdighet",
+            "C": "merkostnad",
+            "D": "passion",
+            "E": "övermod"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 7,
+        "question": "ge sig till tåls",
+        "answers": {
+            "A": "ta sitt ansvar",
+            "B": "vara i underläge",
+            "C": "fatta ett beslut",
+            "D": "lugnt invänta något",
+            "E": "visa sin styrka"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 8,
+        "question": "baryton",
+        "answers": {
+            "A": "notställ",
+            "B": "pianostycke",
+            "C": "röstläge",
+            "D": "slagverkare",
+            "E": "taktpinne"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 9,
+        "question": "rågad",
+        "answers": {
+            "A": "kraftig",
+            "B": "bristfällig",
+            "C": "åtgärdad",
+            "D": "överfull",
+            "E": "avslutad"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 10,
+        "question": "maxim",
+        "answers": {
+            "A": "reaktion",
+            "B": "jämvikt",
+            "C": "slutresultat",
+            "D": "förbindelse",
+            "E": "levnadsregel"
+        },
+        "question_type": "ORD"
+    }
+]

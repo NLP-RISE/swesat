@@ -1,0 +1,122 @@
+[
+    {
+        "question_number": 1,
+        "question": "anekdot",
+        "answers": {
+            "A": "gissning",
+            "B": "diskret gest",
+            "C": "noggrann redogörelse",
+            "D": "kort berättelse",
+            "E": "motsättning"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 2,
+        "question": "reklamera",
+        "answers": {
+            "A": "prata om",
+            "B": "intyga",
+            "C": "märka ut",
+            "D": "återvinna",
+            "E": "anmärka på"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 3,
+        "question": "avsevärt",
+        "answers": {
+            "A": "ganska",
+            "B": "korrekt",
+            "C": "betydligt",
+            "D": "välriktat",
+            "E": "fullständigt"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 4,
+        "question": "koffert",
+        "answers": {
+            "A": "sybord",
+            "B": "lång rock",
+            "C": "lastpall",
+            "D": "klädförråd",
+            "E": "stor resväska"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 5,
+        "question": "gastkramande",
+        "answers": {
+            "A": "farlig",
+            "B": "smärtsam",
+            "C": "kallsinnig",
+            "D": "spännande",
+            "E": "livrädd"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 6,
+        "question": "korrespondens",
+        "answers": {
+            "A": "inbjudan",
+            "B": "brevväxling",
+            "C": "enkätsvar",
+            "D": "summering",
+            "E": "överenskommelse"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 7,
+        "question": "sargad",
+        "answers": {
+            "A": "lurad",
+            "B": "straffad",
+            "C": "upprörd",
+            "D": "skadad",
+            "E": "trängd"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 8,
+        "question": "affekt",
+        "answers": {
+            "A": "stor glädje",
+            "B": "nyfikenhet",
+            "C": "stark sinnesrörelse",
+            "D": "känslokyla",
+            "E": "total förvirring"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 9,
+        "question": "åtnjuta",
+        "answers": {
+            "A": "ha",
+            "B": "be",
+            "C": "nå",
+            "D": "ge",
+            "E": "ta"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 10,
+        "question": "näsbränna",
+        "answers": {
+            "A": "tillrättavisning",
+            "B": "besvikelse",
+            "C": "felbedömning",
+            "D": "svårighet",
+            "E": "förolämpning"
+        },
+        "question_type": "ORD"
+    }
+]

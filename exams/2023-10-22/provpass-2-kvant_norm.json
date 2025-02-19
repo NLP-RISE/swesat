@@ -1,0 +1,361 @@
+[
+    {
+        "question_number": 1,
+        "question": "Vad är $\\frac{2}{3} + \\frac{4}{7} - \\frac{5}{21}$?",
+        "answers": {
+            "a": "$-\\frac{1}{11}$",
+            "b": "$\\frac{1}{7}$",
+            "c": "$1$",
+            "d": "$3$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 2,
+        "question": "Hur stor är den största vinkeln i en triangel där förhållandet mellan vinklarna är $1:2:6$?",
+        "answers": {
+            "a": "60°",
+            "b": "90°",
+            "c": "120°",
+            "d": "135°"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 3,
+        "question": "$x^{3} + bx - 4 = 0$\nOm $x = -2$, vad är då $b$?",
+        "answers": {
+            "a": "$-6$",
+            "b": "$-2$",
+            "c": "$0$",
+            "d": "$2$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 4,
+        "question": "$f(x) = \\frac{3x}{4} - \\frac{1}{2}$\nFör vilket värde på $x$ gäller att $f(x) = 0$?",
+        "answers": {
+            "a": "$\\frac{3}{8}$",
+            "b": "$\\frac{2}{3}$",
+            "c": "$\\frac{3}{2}$",
+            "d": "$\\frac{8}{3}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 5,
+        "question": "$x + \\frac{3}{5} = \\frac{5}{8}$\nVad är $x$?",
+        "answers": {
+            "a": "$\\frac{2}{3}$",
+            "b": "$\\frac{3}{8}$",
+            "c": "$\\frac{2}{13}$",
+            "d": "$\\frac{1}{40}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 6,
+        "question": "Medelvärdet av $x$ och $y$ är lika med $16$.\nMedelvärdet av $20$ och $z$ är lika med $30$.\nVad är $x + y + z$?",
+        "answers": {
+            "a": "$42$",
+            "b": "$56$",
+            "c": "$62$",
+            "d": "$72$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 7,
+        "question": "Vilket svarsalternativ motsvarar uttrycket $-5x(7 - 3y)$?",
+        "answers": {
+            "a": "$-35x - 3y$",
+            "b": "$-(35x - 15y)$",
+            "c": "$(15y - 35)x$",
+            "d": "$15x(y + 7)$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 8,
+        "question": "Visual required to solve this question",
+        "answers": {},
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 9,
+        "question": "$10$ \\% av $x$ är lika med $8$ \\% av $y$. Om $x$ är lika med $20$, vad är då $y$?",
+        "answers": {
+            "a": "$16$",
+            "b": "$18$",
+            "c": "$22$",
+            "d": "$25$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 10,
+        "question": "En rektangel har lika stor area som en kvadrat. Kvadratens sidlängd är $s$. Rektangelns korta sida är $0{,}7s$. Vilket svarsalternativ anger ett uttryck som är lika med rektangelns långa sida?",
+        "answers": {
+            "a": "$s + 0{,}3$",
+            "b": "$s + 0{,}7s$",
+            "c": "$\\frac{s}{0{,}7}$",
+            "d": "$1{,}3s$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 11,
+        "question": "$p$ är ett primtal sådant att $4 < p < 10$. $m$ är ett positivt heltal sådant att $m < p$. Vilket svarsalternativ är med säkerhet korrekt?",
+        "answers": {
+            "a": "$\\frac{p}{m}$ är ett heltal",
+            "b": "$\\frac{36m}{p}$ är ett heltal",
+            "c": "$\\frac{m}{p}$ är ett heltal",
+            "d": "$\\frac{35m}{p}$ är ett heltal"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 12,
+        "question": "Annica, Bianca och Cecilia är systrar. Vid tidpunkten T var systrarnas genomsnittliga ålder $24$ år. Tre år efter T var Biancas och Cecilias genomsnittliga ålder $25$ år. Hur gammal var Annica tre år efter T?",
+        "answers": {
+            "a": "$25$ år",
+            "b": "$27$ år",
+            "c": "$29$ år",
+            "d": "$31$ år"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 13,
+        "question": "$x \\neq 0$\n\nKvantitet I: (2x)^{2}\nKvantitet II: 2x^{2}",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 14,
+        "question": "$f(x) = x^{2} - 3x + 2$\nKvantitet I: $f(-1)$\nKvantitet II: $f(3)$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 15,
+        "question": "Kvantitet I: $\\frac{5^{5}}{5^{3}}$ \n\nKvantitet II: $\\frac{5^{28}}{5^{26}}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 16,
+        "question": "Kvantitet I: Arean av en rektangel med sidorna $6x$ cm respektive $0{,}5x$ cm \n\nKvantitet II: Arean av en cirkel med radien $x$ cm",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 17,
+        "question": "Kvantitet I: $3 \\sqrt{6}$ \n\nKvantitet II: $6 \\sqrt{3}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 18,
+        "question": "$x^{2} = 25$ \n$y = x - 2$ \n\nKvantitet I: $y$ \n\nKvantitet II: $\\sqrt{16}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 19,
+        "question": "För $6$ år sedan var Elsas ålder en tredjedel av vad den är idag.\n\nKvantitet I: Elsas ålder om $6$ år\nKvantitet II: $18$ år",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 20,
+        "question": "$\\frac{x}{y} = -1$\n\nKvantitet I: $x + y$\nKvantitet II: $0$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 21,
+        "question": "Produkten av två positiva heltal är $12$.\n\nKvantitet I: Medelvärdet av de två talen\nKvantitet II: $4$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 22,
+        "question": "Triangeln ABC är likbent.\n\nKvantitet I: Summan av vinkeln A och vinkeln B\nKvantitet II: $90$°",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 23,
+        "question": "På en biograf med tre salonger visas tre olika filmer, en i varje salong. Filmerna är ett drama, en komedi och en skräckfilm. Vilken film visas i vilken salong?\n\n(1) Komedin visas inte i salong 2. Skräckfilmen visas i salong 1 eller salong 3.\n\n(2) Komedin visas i salong 1. Skräckfilmen visas i salong 2 eller salong 3.\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 24,
+        "question": "Josefin har $85$ julgranskulor. Var och en av kulorna är antingen röd eller guldfärgad. Dessutom är var och en av kulorna antingen stor eller liten. Hur många stora röda julgranskulor har Josefin?\n\n(1) Fler än hälften av julgranskulorna är röda.\nFler än hälften av julgranskulorna är stora.\n\n(2) Fem av de små julgranskulorna är röda.\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 25,
+        "question": "Kalle färdades från A till B. Hur långt färdades Kalle?\n\n(1) Kalles medelhastighet var $15$ km/h.\n(2) Om Kalle hade färdats dubbelt så fort, så hade han varit framme vid B $7{,}5$ minuter tidigare.\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 26,
+        "question": "I en låda finns det $56$ enfärgade kulor i tre olika färger: blå, grön och röd. Hur många röda kulor finns det i lådan?\n\n(1) Förhållandet mellan antalet blå och antalet gröna kulor i lådan är $6:5$.\n(2) $\\frac{3}{7}$ av antalet kulor i lådan är blå. $\\frac{5}{14}$ av antalet kulor i lådan är gröna.\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 27,
+        "question": "Ett femsiffrigt tal är skrivet på ett papper. Vilket är det femsiffriga talet?\n\n(1) Den första siffran i talet är dubbelt så stor som den femte siffran. Summan av de två första siffrorna är $7$. Den tredje siffran är $7$.\n\n(2) Den fjärde siffran i talet är dubbelt så stor som den första siffran.\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 28,
+        "question": "Visual required to solve this question",
+        "answers": {},
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "NOG"
+    }
+]

@@ -1,0 +1,372 @@
+[
+    {
+        "question_number": 1,
+        "question": "Vilket svarsalternativ motsvarar uttrycket $3(2x + 5) + 2(7 - 3x)$?",
+        "answers": {
+            "a": "$29$",
+            "b": "$17 - x$",
+            "c": "$3x + 19$",
+            "d": "$12x + 29$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 2,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": ""
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "graph",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 3,
+        "question": "Arean av en cirkel är $27\text{cm}^{2}$. Vilket av svarsalternativen är det bästa närmevärdet för längden av cirkelns radie?",
+        "answers": {
+            "a": "$1{,}5$ cm",
+            "b": "$3$ cm",
+            "c": "$6$ cm",
+            "d": "$9$ cm"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 4,
+        "question": "Om $a%$ av $x$ är $y$, hur mycket är $2a%$ av $0{,}5x$?",
+        "answers": {
+            "a": "$0{,}5y$",
+            "b": "$y$",
+            "c": "$2y$",
+            "d": "$4y$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 5,
+        "question": "En mätserie består av $5$ mätvärden. Vilket av svarsalternativen är med säkerhet korrekt?",
+        "answers": {
+            "a": "Om mätseriens medelvärde är ett heltal, så är alla mätvärdena heltal.",
+            "b": "Om mätseriens median är ett heltal, så är alla mätvärdena heltal.",
+            "c": "Om alla mätvärdena är heltal, så är mätseriens medelvärde ett heltal.",
+            "d": "Om alla mätvärdena är heltal, så är mätseriens median ett heltal."
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 6,
+        "question": "a och b är positiva tal. Vilket svarsalternativ är lösningen till ekvationen $ax + bx = 1$?",
+        "answers": {
+            "a": "$x = 1 - (a + b)$",
+            "b": "$x = \\frac{1}{ab}$",
+            "c": "$x = a + b$",
+            "d": "$x = \\frac{1}{a + b}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 7,
+        "question": "Jaana gör ett halsband med enfärgade pärlor i sju olika färger. Hon använder lika många pärlor av varje färg. Vilket svarsalternativ är ett möjligt antal pärlor i det färdiga halsbandet?",
+        "answers": {
+            "a": "$241$",
+            "b": "$245$",
+            "c": "$247$",
+            "d": "$249$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 8,
+        "question": "Vilket svarsalternativ är störst?",
+        "answers": {
+            "a": "$\\frac{10^{2} \\cdot 10^{-5}}{10^{-3}}$",
+            "b": "$\\frac{10^{-3} \\cdot 10^{-5}}{10^{2}}$",
+            "c": "$\\frac{10^{2} \\cdot 10^{-3}}{10^{-5}}$",
+            "d": "$\\frac{10^{-5}}{10^{2} \\cdot 10^{-3}}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 9,
+        "question": "Arean av en kvadrat med sidlängden $10$ cm är dubbelt så stor som arean av en kvadrat med sidlängden $x$ cm. Vilket värde har $x$?",
+        "answers": {
+            "a": "$\\sqrt{10}$",
+            "b": "$\\sqrt{20}$",
+            "c": "$\\sqrt{25}$",
+            "d": "$\\sqrt{50}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 10,
+        "question": "Vad är $\\frac{7}{20} - \\frac{3}{2} \\cdot \\frac{1}{5}$?",
+        "answers": {
+            "a": "$-\\frac{23}{100}$",
+            "b": "$\\frac{1}{20}$",
+            "c": "$\\frac{3}{10}$",
+            "d": "$\\frac{4}{10}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 11,
+        "question": "Vilka koordinater har den punkt där grafen till $f(x)$ skär x-axeln?",
+        "answers": {
+            "a": "$\\left( 0, -\\frac{3}{2} \\right)$",
+            "b": "$(0, 6)$",
+            "c": "$\\left( -\\frac{3}{2}, 0 \\right)$",
+            "d": "$(6, 0)$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 12,
+        "question": "Vilket svarsalternativ är ett möjligt värde på $a$ om $a^{-2} = 16$?",
+        "answers": {
+            "a": "$-4$",
+            "b": "$\\frac{1}{256}$",
+            "c": "$\\frac{1}{4}$",
+            "d": "$256$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 13,
+        "question": "$x$, $y$ och $z$ är positiva tal.\n$x$ procent av $y$ är lika med 73.\n$x$ procent av $z$ är lika med $37$.\n\nKvantitet I: $y$\n\nKvantitet II: $z$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 14,
+        "question": "$T$ är en triangel.\n\nKvantitet I: Omkretsen av $T$ dividerad med $3$\n\nKvantitet II: Medelvärdet av sidlängderna för $T$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 15,
+        "question": "Kvantitet I: $\\frac{\\frac{1}{6}}{\\frac{6}{1}}}$\n\nKvantitet II: $\\frac{\\frac{6}{1}}{\\frac{1}{6}}}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 16,
+        "question": "Albin är dubbelt så gammal som Edvin och Levi är tillsammans.\n\nKvantitet I: Albins ålder\n\nKvantitet II: Tre gånger Edvins ålder",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 17,
+        "question": "$x > 1$\n$x^{y+1} = 1$\n\nKvantitet I: $y$\n\nKvantitet II: $0$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 18,
+        "question": "Kvadraterna $K_{1}$ och $K_{2}$ överlappar varandra så att $25$ procent av arean av $K_{1}$ täcks av $K_{2}$ medan $20$ procent av arean av $K_{2}$ täcks av $K_{1}$.\n\nKvantitet I:\nArean av $K_{1}$\n\nKvantitet II:\nArean av $K_{2}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 19,
+        "question": "Kvantitet I: $3{,}13 (\\pi + 3{,}15)$\n\nKvantitet II: $3{,}15 (3{,}13 + \\pi)$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 20,
+        "question": "$x\\neq 0$\n$y\\neq 0$\n$x + y = 0$\n\nKvantitet I: $x^{2} + y^{2}$\nKvantitet II: $x^{2} + y^{2} + 2xy$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 21,
+        "question": "Grafen till funktionen $f$ är en rät linje genom origo.\n$a > 0$\n\nKvantitet I: $f(a)$\nKvantitet II: $f(-a)$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 22,
+        "question": "En mätserie består av värdena $-5$, $x$, $y$, $3$. Seriens medelvärde är $-1$.\n\nKvantitet I: $x + y$\n\nKvantitet II: $-1$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 23,
+        "question": "Kalle har gjort en snögubbe som endast består av tre snöbollar, vilka representerar huvud, mage och ben. Mage-snöbollen väger $20$ kg. Hur mycket väger hela Kalles snögubbe?\n\n(1) Ben-snöbollen väger $7$ gånger så mycket som huvud-snöbollen.\n\n(2) Huvud-snöbollen väger $\\frac{1}{4}$ av vad mage-snöbollen väger.",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 24,
+        "question": "Ett kalkylblad består av två kolumner och två rader. Det står ett tal i var och en av de fyra cellerna. Vad är summan av de fyra talen?",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "table",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 25,
+        "question": "Vilket av talen $x$, $y$, $z$ och $w$ är störst?\n\n(1) $x + z > y + w$\n(2) $x > z$\n$y > w$",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 26,
+        "question": "En röd, en blå, en vit och en grå kloss är staplade ovanpå varandra. Det finns ingen kloss mellan den röda och den vita klossen. Vilken färg har klossen som ligger överst?\n\n(1) Varken den röda eller den vita klossen ligger överst. Den blå klossen ligger längre ner än den grå klossen.\n\n(2) Varken den röda eller den vita klossen ligger längst ner. Den blå klossen angränsar till den röda klossen.",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 27,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 28,
+        "question": "$x$ är ett positivt heltal. Vad är $x$?\n\n(1) $x^{4} = \\sqrt{x}$\n\n(2)$\\$frac{k}{x} = k, k\\neq 0$",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    }
+]

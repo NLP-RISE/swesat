@@ -1,0 +1,122 @@
+[
+    {
+        "question_number": 1,
+        "question": "dispyt",
+        "answers": {
+            "A": "brist",
+            "B": "gräl",
+            "C": "tvekan",
+            "D": "besvikelse",
+            "E": "undantag"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 2,
+        "question": "angeläget",
+        "answers": {
+            "A": "tydligt",
+            "B": "utmanande",
+            "C": "informativt",
+            "D": "noggrant",
+            "E": "viktigt"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 3,
+        "question": "supplement",
+        "answers": {
+            "A": "överskott",
+            "B": "urval",
+            "C": "innehåll",
+            "D": "tillägg",
+            "E": "understöd"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 4,
+        "question": "aktad",
+        "answers": {
+            "A": "respekterad",
+            "B": "högtidlig",
+            "C": "artig",
+            "D": "försiktig",
+            "E": "undanskymd"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 5,
+        "question": "rata",
+        "answers": {
+            "A": "granska",
+            "B": "avvisa",
+            "C": "fastställa",
+            "D": "ifrågasätta",
+            "E": "samordna"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 6,
+        "question": "illa åtgången",
+        "answers": {
+            "A": "helt uttorkad",
+            "B": "nästan slut",
+            "C": "mycket ledsen",
+            "D": "svårt angripen",
+            "E": "lämnad utanför"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 7,
+        "question": "bärkraft",
+        "answers": {
+            "A": "avlagring",
+            "B": "prestation",
+            "C": "tryck",
+            "D": "hållbarhet",
+            "E": "försörjning"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 8,
+        "question": "vegetera",
+        "answers": {
+            "A": "tala gåtfullt",
+            "B": "vara generös",
+            "C": "leva i overksamhet",
+            "D": "besvära i onödan",
+            "E": "sprida oro"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 9,
+        "question": "egalitär",
+        "answers": {
+            "A": "jämlik",
+            "B": "tillfällig",
+            "C": "obekymrad",
+            "D": "välvillig",
+            "E": "ursprunglig"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 10,
+        "question": "kavalkad",
+        "answers": {
+            "A": "kort historia",
+            "B": "utvald grupp",
+            "C": "lång rad",
+            "D": "tapper skara",
+            "E": "begränsad mängd"
+        },
+        "question_type": "ORD"
+    }
+]

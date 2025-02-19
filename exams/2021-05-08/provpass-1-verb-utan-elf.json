@@ -1,0 +1,122 @@
+[
+    {
+        "question_number": 1,
+        "question": "mynna ut i",
+        "answers": {
+            "A": "stanna av",
+            "B": "omvandlas till",
+            "C": "blanda in",
+            "D": "fyllas på med",
+            "E": "leda till"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 2,
+        "question": "ornament",
+        "answers": {
+            "A": "aftonsång",
+            "B": "byggnad",
+            "C": "stjärnhimmel",
+            "D": "botemedel",
+            "E": "utsmyckning"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 3,
+        "question": "dedikerad",
+        "answers": {
+            "A": "stödjande",
+            "B": "beslutsam",
+            "C": "fascinerad",
+            "D": "hängiven",
+            "E": "uppskattad"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 4,
+        "question": "övertramp",
+        "answers": {
+            "A": "olämplig handling",
+            "B": "fysisk påfrestning",
+            "C": "byte av ståndpunkt",
+            "D": "allvarligt missförstånd",
+            "E": "olaga intrång"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 5,
+        "question": "få upprättelse",
+        "answers": {
+            "A": "få hjälp i en krissituation",
+            "B": "få beröm för en prestation",
+            "C": "få möjlighet till självbestämmande",
+            "D": "få vägledning i en svår fråga",
+            "E": "få sitt anseende återställt"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 6,
+        "question": "allmänning",
+        "answers": {
+            "A": "grundläggande kunskap",
+            "B": "vida spritt rykte",
+            "C": "gemensamt ägd mark",
+            "D": "helt vanlig person",
+            "E": "kommunalt bostadsområde"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 7,
+        "question": "oaktat",
+        "answers": {
+            "A": "på grund av",
+            "B": "trots",
+            "C": "knappast",
+            "D": "såsom",
+            "E": "genomgående"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 8,
+        "question": "inventarier",
+        "answers": {
+            "A": "lös egendom",
+            "B": "råvaror",
+            "C": "lämningar",
+            "D": "framgångar",
+            "E": "tillfälliga lösningar"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 9,
+        "question": "ohöljd",
+        "answers": {
+            "A": "förnedrad",
+            "B": "öppen",
+            "C": "sällsynt",
+            "D": "inbjudande",
+            "E": "otymplig"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 10,
+        "question": "inackordering",
+        "answers": {
+            "A": "beställning",
+            "B": "lön och förmåner",
+            "C": "avslag",
+            "D": "kost och logi",
+            "E": "överenskommelse"
+        },
+        "question_type": "ORD"
+    }
+]

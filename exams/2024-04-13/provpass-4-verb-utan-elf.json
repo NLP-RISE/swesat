@@ -1,0 +1,122 @@
+[
+    {
+        "question_number": 1,
+        "question": "försegla",
+        "answers": {
+            "A": "upphöra",
+            "B": "tillsluta",
+            "C": "undersöka",
+            "D": "avgöra",
+            "E": "omringa"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 2,
+        "question": "autodidakt",
+        "answers": {
+            "A": "pålitlig person",
+            "B": "mäktig person",
+            "C": "egoistisk person",
+            "D": "inbunden person",
+            "E": "självlärd person"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 3,
+        "question": "gentemot",
+        "answers": {
+            "A": "nära intill",
+            "B": "bortsett från",
+            "C": "som alternativ till",
+            "D": "med tanke på",
+            "E": "i förhållande till"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 4,
+        "question": "utarmad",
+        "answers": {
+            "A": "fri",
+            "B": "farlig",
+            "C": "förlamad",
+            "D": "fattig",
+            "E": "feg"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 5,
+        "question": "axplock",
+        "answers": {
+            "A": "slumpartat urval",
+            "B": "enformigt arbete",
+            "C": "förstahandsval",
+            "D": "kvalificerad gissning",
+            "E": "stor noggrannhet"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 6,
+        "question": "exceptionell",
+        "answers": {
+            "A": "nyanserad",
+            "B": "högtidlig",
+            "C": "sällsynt",
+            "D": "överdriven",
+            "E": "uttrycksfull"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 7,
+        "question": "tillkännage",
+        "answers": {
+            "A": "anropa",
+            "B": "meddela",
+            "C": "besvara",
+            "D": "instämma",
+            "E": "efterfråga"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 8,
+        "question": "appell",
+        "answers": {
+            "A": "löfte",
+            "B": "misstanke",
+            "C": "vädjan",
+            "D": "övertygelse",
+            "E": "intryck"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 9,
+        "question": "intrikat",
+        "answers": {
+            "A": "invecklad",
+            "B": "intensiv",
+            "C": "inställsam",
+            "D": "intressant",
+            "E": "inåtvänd"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 10,
+        "question": "debacle",
+        "answers": {
+            "A": "klarhet",
+            "B": "omröstning",
+            "C": "misslyckande",
+            "D": "tillfällighet",
+            "E": "förbättring"
+        },
+        "question_type": "ORD"
+    }
+]

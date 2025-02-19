@@ -1,0 +1,122 @@
+[
+    {
+        "question_number": 1,
+        "question": "proper",
+        "answers": {
+            "A": "stolt",
+            "B": "måttfull",
+            "C": "allvarlig",
+            "D": "förmögen",
+            "E": "välvårdad"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 2,
+        "question": "galosch",
+        "answers": {
+            "A": "filthatt",
+            "B": "slipsnål",
+            "C": "högtidsdräkt",
+            "D": "slängkappa",
+            "E": "gummisko"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 3,
+        "question": "dementera",
+        "answers": {
+            "A": "sörja",
+            "B": "förneka",
+            "C": "ljuga",
+            "D": "förbjuda",
+            "E": "störa"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 4,
+        "question": "medaljens baksida",
+        "answers": {
+            "A": "orsaken",
+            "B": "undantaget",
+            "C": "motståndet",
+            "D": "nackdelen",
+            "E": "resultatet"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 5,
+        "question": "cerebral",
+        "answers": {
+            "A": "som orsakar smärta",
+            "B": "som gäller hjärnan",
+            "C": "som rör synen",
+            "D": "som beror på kosten",
+            "E": "som sker reflexmässigt"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 6,
+        "question": "hemsökelse",
+        "answers": {
+            "A": "utbredd plåga",
+            "B": "rastlöshet",
+            "C": "formell begäran",
+            "D": "uppståndelse",
+            "E": "personligt erbjudande"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 7,
+        "question": "tjänlig",
+        "answers": {
+            "A": "lärorik",
+            "B": "begriplig",
+            "C": "användbar",
+            "D": "tillgänglig",
+            "E": "lättskött"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 8,
+        "question": "vara avhängig av",
+        "answers": {
+            "A": "stå ut med",
+            "B": "räknas in i",
+            "C": "bero på",
+            "D": "utsättas för",
+            "E": "ha tilltro till"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 9,
+        "question": "klander",
+        "answers": {
+            "A": "orimligt antagande",
+            "B": "osann  uppgift",
+            "C": "ogillande  anmärkning",
+            "D": "omild  behandling",
+            "E": "olyckligt  misstag"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 10,
+        "question": "omsorgsfull",
+        "answers": {
+            "A": "noggrann",
+            "B": "trevlig",
+            "C": "bekymrad",
+            "D": "tankfull",
+            "E": "inställsam"
+        },
+        "question_type": "ORD"
+    }
+]

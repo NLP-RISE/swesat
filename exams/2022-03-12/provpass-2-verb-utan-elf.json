@@ -1,0 +1,122 @@
+[
+    {
+        "question_number": 1,
+        "question": "proviant",
+        "answers": {
+            "A": "ryggsäck",
+            "B": "färdkost",
+            "C": "reskassa",
+            "D": "planering",
+            "E": "regnskydd"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 2,
+        "question": "reflektera",
+        "answers": {
+            "A": "betvivla",
+            "B": "säga ifrån",
+            "C": "motbevisa",
+            "D": "tänka igenom",
+            "E": "återberätta"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 3,
+        "question": "foajé",
+        "answers": {
+            "A": "matsal",
+            "B": "arbetsrum",
+            "C": "entréhall",
+            "D": "klädkammare",
+            "E": "vindsrum"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 4,
+        "question": "sekundär",
+        "answers": {
+            "A": "avvikande",
+            "B": "stödjande",
+            "C": "försämrad",
+            "D": "omedelbar",
+            "E": "underordnad"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 5,
+        "question": "inrådan",
+        "answers": {
+            "A": "erbjudande",
+            "B": "uppmaning",
+            "C": "bestämmelse",
+            "D": "medverkan",
+            "E": "påstående"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 6,
+        "question": "hålla låda",
+        "answers": {
+            "A": "stå stadigt",
+            "B": "prata oavbrutet",
+            "C": "bjuda på fest",
+            "D": "behärska sig",
+            "E": "invänta svar"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 7,
+        "question": "hänförd",
+        "answers": {
+            "A": "utvisad",
+            "B": "tankspridd",
+            "C": "bedragen",
+            "D": "tillfredsställd",
+            "E": "förtjust"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 8,
+        "question": "premiss",
+        "answers": {
+            "A": "förutsättning",
+            "B": "försäkran",
+            "C": "förteckning",
+            "D": "föraning",
+            "E": "förbindelse"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 9,
+        "question": "naturtroget",
+        "answers": {
+            "A": "enkelspårigt",
+            "B": "oskuldsfullt",
+            "C": "mycket likt",
+            "D": "hälsosamt",
+            "E": "variationsrikt"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 10,
+        "question": "hedonist",
+        "answers": {
+            "A": "sällskapsmänniska",
+            "B": "ordningsmänniska",
+            "C": "njutningsmänniska",
+            "D": "vanemänniska",
+            "E": "idealmänniska"
+        },
+        "question_type": "ORD"
+    }
+]

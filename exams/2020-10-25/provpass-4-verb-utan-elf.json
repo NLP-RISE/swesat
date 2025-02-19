@@ -1,0 +1,122 @@
+[
+    {
+        "question_number": 1,
+        "question": "konfederation",
+        "answers": {
+            "A": "kungadöme",
+            "B": "förbund av stater",
+            "C": "stödparti",
+            "D": "nation med folkstyre",
+            "E": "republik"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 2,
+        "question": "brysk",
+        "answers": {
+            "A": "tanklös",
+            "B": "sur och grinig",
+            "C": "beslutsam",
+            "D": "tvär och ovänlig",
+            "E": "trotsig"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 3,
+        "question": "forcera",
+        "answers": {
+            "A": "krocka",
+            "B": "försvåra",
+            "C": "plåga",
+            "D": "fullfölja",
+            "E": "påskynda"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 4,
+        "question": "röse",
+        "answers": {
+            "A": "skräp",
+            "B": "milstolpe",
+            "C": "fälla",
+            "D": "stenhög",
+            "E": "grop"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 5,
+        "question": "samvetsgrann",
+        "answers": {
+            "A": "plikttrogen",
+            "B": "ångerfull",
+            "C": "hjälpsam",
+            "D": "omoralisk",
+            "E": "förlåtande"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 6,
+        "question": "reprimand",
+        "answers": {
+            "A": "erkännande",
+            "B": "tillrättavisning",
+            "C": "efterkontroll",
+            "D": "påhälsning",
+            "E": "återseende"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 7,
+        "question": "utsiktslöst",
+        "answers": {
+            "A": "enformigt",
+            "B": "instängt",
+            "C": "obetydligt",
+            "D": "avlägset",
+            "E": "hopplöst"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 8,
+        "question": "kriterium",
+        "answers": {
+            "A": "kännetecken",
+            "B": "uppfattning",
+            "C": "följdverkan",
+            "D": "möjlighet",
+            "E": "anledning"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 9,
+        "question": "bräcka",
+        "answers": {
+            "A": "utbrista",
+            "B": "avdela",
+            "C": "överträffa",
+            "D": "avbryta",
+            "E": "utforma"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 10,
+        "question": "hemställan",
+        "answers": {
+            "A": "vägran",
+            "B": "begäran",
+            "C": "förhoppning",
+            "D": "tillstånd",
+            "E": "väntetid"
+        },
+        "question_type": "ORD"
+    }
+]

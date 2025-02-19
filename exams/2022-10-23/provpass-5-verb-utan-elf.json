@@ -1,0 +1,122 @@
+[
+    {
+        "question_number": 1,
+        "question": "inhemsk",
+        "answers": {
+            "A": "som har vissa brister",
+            "B": "som uppskattas av många",
+            "C": "som hör till det egna landet",
+            "D": "som kan verka obehaglig",
+            "E": "som har använts tidigare"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 2,
+        "question": "mantra",
+        "answers": {
+            "A": "bibelcitat",
+            "B": "takmålning",
+            "C": "meditationsformel",
+            "D": "lyckoamulett",
+            "E": "symmetrisk bild"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 3,
+        "question": "fördärva",
+        "answers": {
+            "A": "förbruka",
+            "B": "förfalska",
+            "C": "förkasta",
+            "D": "förstöra",
+            "E": "förnedra"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 4,
+        "question": "utan pardon",
+        "answers": {
+            "A": "utan tröst",
+            "B": "utan hjälp",
+            "C": "utan skydd",
+            "D": "utan tvivel",
+            "E": "utan nåd"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 5,
+        "question": "terapeutisk",
+        "answers": {
+            "A": "läkande",
+            "B": "beskrivande",
+            "C": "lätthanterlig",
+            "D": "förebyggande",
+            "E": "långsiktig"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 6,
+        "question": "avsteg",
+        "answers": {
+            "A": "stort misstag",
+            "B": "olyckshändelse",
+            "C": "mindre avvikelse",
+            "D": "helomvändning",
+            "E": "oväntat beslut"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 7,
+        "question": "gravt",
+        "answers": {
+            "A": "ödsligt",
+            "B": "skenbart",
+            "C": "allvarligt",
+            "D": "knappt",
+            "E": "dolt"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 8,
+        "question": "enträgen",
+        "answers": {
+            "A": "naiv",
+            "B": "grinig",
+            "C": "självisk",
+            "D": "outtröttlig",
+            "E": "eftertänksam"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 9,
+        "question": "antipati",
+        "answers": {
+            "A": "motsats",
+            "B": "motvilja",
+            "C": "motgång",
+            "D": "motkraft",
+            "E": "motsägelse"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 10,
+        "question": "raljera",
+        "answers": {
+            "A": "visa intresse",
+            "B": "blanda ihop",
+            "C": "granska noga",
+            "D": "skära upp",
+            "E": "skämta ironiskt"
+        },
+        "question_type": "ORD"
+    }
+]

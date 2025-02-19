@@ -1,0 +1,372 @@
+[
+    {
+        "question_number": 1,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "$6$ cm",
+            "b": "$7$ cm",
+            "c": "$8$ cm",
+            "d": "$9$ cm"
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 2,
+        "question": "$x$ och $y$ uppfyller sambandet $2x + 3xy - 4y = 10$. Vilket värde har $x$ om $y = -2$?",
+        "answers": {
+            "a": "$-18$",
+            "b": "$-\\frac{9}{2}$",
+            "c": "$-2$",
+            "d": "$-\\frac{1}{2}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 3,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": ""
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "graph",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 4,
+        "question": "$60\\%$ av $x$ är $39$. Vad är $x$?",
+        "answers": {
+            "a": "$60$",
+            "b": "$65$",
+            "c": "$72$",
+            "d": "$78$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 5,
+        "question": "Vilket svarsalternativ motsvarar $a(b + c) - b(a + c) + c(b - a)$?",
+        "answers": {
+            "a": "$0$",
+            "b": "$ab - bc - ac$",
+            "c": "$2(ab + ac + bc)$",
+            "d": "$2c + bc - a$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 6,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "$25^\\circ$",
+            "b": "$32^\\circ$",
+            "c": "$57^\\circ$",
+            "d": "$58^\\circ$"
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 7,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "P",
+            "b": "Q",
+            "c": "R",
+            "d": "S"
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 8,
+        "question": "En stängd låda med innermåtten $50\\ \\text{cm}\\ \\times\\ 54\\ \\text{cm}\\ \\times\\ 72 \\text{cm}$ innehåller klossar med måtten $5\\ \\text{cm}\\ \\times\\ 6\\text{cm}\\ \\times\\ 9\\ \\text{cm}$. Hur många klossar kan det som mest finnas i lådan?",
+        "answers": {
+            "a": "$270$",
+            "b": "$500$",
+            "c": "$650$",
+            "d": "$720$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 9,
+        "question": "$xy \\neq 0$\n\nVilket svarsalternativ motsvarar $\\frac{2xy(3xy + 15y)}{6xy^{2}}$?",
+        "answers": {
+            "a": "$x + 5$",
+            "b": "$3x + 15$",
+            "c": "$x + 15y$",
+            "d": "$\\frac{2x^2y + 5}{2xy}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 10,
+        "question": "För heltalen $x$, $y$ och $z$ gäller att $xyz = 12$ och att $0 < x < y < z$. Vilket är det största möjliga värdet på $z - x$?",
+        "answers": {
+            "a": "$1$",
+            "b": "$3$",
+            "c": "$5$",
+            "d": "$6$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 11,
+        "question": "Laila har sex enfärgade kulor och tre lådor: A, B och C. I låda A finns det två röda och en vit kula. I låda B finns det en röd och två vita kulor. Låda C är tom. Laila plockar slumpmässigt en kula ur låda A och en kula ur låda B och lägger dem i låda C. Hur stor är då sannolikheten att alla tre lådorna innehåller en röd och en vit kula?",
+        "answers": {
+            "a": "$\\frac{1}{3}$",
+            "b": "$\\frac{2}{3}$",
+            "c": "$\\frac{1}{9}$",
+            "d": "$\\frac{4}{9}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 12,
+        "question": "Vilket svarsalternativ är lika med $2\\left(2^{5} + 2^{5}\\right)$?",
+        "answers": {
+            "a": "$2^{6}$",
+            "b": "$2^{7}$",
+            "c": "$2^{11}$",
+            "d": "$2^{12}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 13,
+        "question": "$x - 5 = y + 5$ \n $y = 0$ \n\nKvantitet I: $x$\nKvantitet II: $0$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 14,
+        "question": "$J$ är det nionde jämna talet efter $15$ och $U$ är det sjunde udda talet efter $18$.\n\nKvantitet I: $J - U$\nKvantitet II: $0$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 15,
+        "question": "Kvantiteten I: Medelvärdet av $\\frac{1}{10}$ och $\\frac{1}{5}$\nKvantiteten II: $\\frac{1}{7}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 16,
+        "question": "$a \\leq -1$ \n $b < 0$ \n\nKvantiteten I: $\\frac{a}{b}$ \nKvantiteten II: $1$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 17,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 18,
+        "question": "Kvantitet I: $50$ procent av ett tal större än $1000$\nKvantitet II: $75$ procent av ett tal mindre än $800$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 19,
+        "question": "$\\frac{3}{2} + \\frac{x}{3} = 1$\n\nKvantitet I: $x$\n\nKvantitet II: $-\\frac{1}{6}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 20,
+        "question": "Linjen $L_{1}$ går genom punkterna $\\left(-1, 3\\right)$ och $\\left(1, 2\\right)$. Linjen $L_{2}$ är vinkelrät mot $L_{1}$ och går genom origo.\n\nKvantitet I: Riktningskoefficienten för $L_{1}$\n\nKvantitet II: Riktningskoefficienten för $L_{2}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 21,
+        "question": "Den rätvinkliga triangeln T har sidlängderna $3$ cm, $4$ cm och $5$ cm. T har samma omkrets som kvadraten $K$.\n\nKvantitet I: Arean av T\n\nKvantitet II: Arean av $K$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 22,
+        "question": "Kvantitet I: $(x^4 + 1)(x^{3} - x)$\n\nKvantitet II: $(x^{5} + x)(x^{2} - 1)$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 23,
+        "question": "$x$ är ett heltal. Vilket värde har x?\n\n(1) $x\\ \\geq\\ 3$ \n\n(2) $x\\ \\leq\\ 4$ \n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 24,
+        "question": "Tre böcker ligger på ett bord. Hur många sidor har boken med minst antal sidor?\n\n(1) De tre böckerna har sammanlagt $792$ sidor. Boken med flest sidor har $348$ sidor.\n\n(2) Medelvärdet av antalet sidor i de tre böckerna är lika med antalet sidor i den bok som varken har störst eller minst antal sidor.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 25,
+        "question": "Eva har fyra askar: en röd, en blå, en svart och en grå. En av askarna innehåller pärlor, en knappar, en paljetter och en limstift. Ingen ask är tom. I vilken ask har Eva limstift? \n\n(1) I den blå eller den grå asken finns det pärlor. Limstift finns inte i den röda asken.\n\n(2) I den svarta asken finns det paljetter. Limstift finns i den blå eller den grå asken.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 26,
+        "question": "Johan cyklar samma runda vid fem tillfällen. Hans medelhastighet varierar från gång till gång. Hur lång är Johans cykelrunda?\n\n(1) Johans medelhastighet för en cykelrunda är som lägst $15$ $\\frac{km}{h}$ och som högst $25$ $\\frac{km}{h}$. Cykelrundan tar som minst $12$ minuter och som mest $20$ minuter.\n\n(2) Om man lägger ihop de fem cykelrundorna blir den sammanlagda tiden $75$ minuter och medelhastigheten blir $20$ km/h.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 27,
+        "question": "Nils spelar ett tv-spel där det finns stora och små monster. Vart och ett av monstren är antingen rött eller grönt. Nils besegrar sammanlagt $48$ monster. Hur många röda monster besegrar han?\n\n(1) Nils besegrar $13$ små gröna monster och $9$ stora röda monster.\n\n(2) Av de $12$ stora monster som Nils besegrar är tre fjärdedelar röda.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 28,
+        "question": "Fyra enfärgade brevlådor sitter på rad på en vägg. En är grön, en är röd, en är svart och en är vit. Vilken färg har brevlådan längst till höger?\n\n(1) Den gröna brevlådan sitter mitt emellan den svarta och den vita. Den svarta brevlådan sitter varken längst till höger eller längst till vänster.\n\n(2) Den röda brevlådan sitter längst till vänster. Om den svarta och den vita brevlådan skulle byta plats, så skulle den vita brevlådan hamna mitt emellan den röda och den gröna.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    }
+]

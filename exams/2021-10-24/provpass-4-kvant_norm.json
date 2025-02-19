@@ -1,0 +1,367 @@
+[
+    {
+        "question_number": 1,
+        "question": "$2x + 9 = x - 7$ \nVilket värde har $x$?",
+        "answers": {
+            "a": "$-16$",
+            "b": "$-\\frac{2}{3}$",
+            "c": "$\\frac{2}{3}$",
+            "d": "$16$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 2,
+        "question": "Vad är $\\frac{1}{8} + \\frac{3}{4} + \\frac{1}{2}$?",
+        "answers": {
+            "a": "$\\frac{13}{12}$",
+            "b": "$\\frac{9}{8}$",
+            "c": "$\\frac{11}{8}$",
+            "d": "$\\frac{5}{14}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 3,
+        "question": "Visual required to solve this question",
+        "answers": {},
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 4,
+        "question": "Grafen till funktionen $f$ är en rät linje som går genom origo, och $f(8) = -6$. Vilket svarsalternativ anger $f(x)$?",
+        "answers": {
+            "a": "$f(x) = 8x - 6$",
+            "b": "$f(x) = -6x + 8$",
+            "c": "$f(x) = -\\frac{4}{3}x$",
+            "d": "$f(x) = -\\frac{3}{4}x$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 5,
+        "question": "Vilket är det ursprungliga priset på en vara om en rabatt på $8$ procent gör varan $640$ kronor billigare?",
+        "answers": {
+            "a": "$5120$ kronor",
+            "b": "$7360$ kronor",
+            "c": "$7680$ kronor",
+            "d": "$8000$ kronor"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 6,
+        "question": "Ida målar ett plank med konstant hastighet. Efter $4{,}5$ timmar har hon målat $\\frac{3}{7}$ av planket. Hur lång tid tar det för Ida att måla resten av planket?",
+        "answers": {
+            "a": "$5$ timmar",
+            "b": "$5{,}5$ timmar",
+            "c": "$6$ timmar",
+            "d": "$6{,}5$ timmar"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 7,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": ""
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "graph",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 8,
+        "question": "$x = -3$ \n$y = -2$ \n$z = -1$ \nVilket svarsalternativ har det minsta värdet?",
+        "answers": {
+            "a": "$x^{2}yz^{2}$",
+            "b": "$x^{2}y^{2}z$",
+            "c": "$xy^{2}z^{2}$",
+            "d": "$xy^{3}z$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 9,
+        "question": "Vilket svarsalternativ är med säkerhet lika med medelvärdet av de fem talen $14$, $11$, $13$, $x$ och $22$?",
+        "answers": {
+            "a": "$\\frac{15 + x}{2}$",
+            "b": "$\\frac{60}{5} + x$",
+            "c": "$60 + x$",
+            "d": "$12 + \\frac{x}{5}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 10,
+        "question": "För vilket värde på $x$ gäller att två tredjedelar av $x$ är lika med $\\frac{4}{7}$?",
+        "answers": {
+            "a": "$x = \\frac{2}{3} \\cdot \\frac{4}{7}$",
+            "b": "$x = \\frac{2}{3} \\cdot \\frac{7}{4}$",
+            "c": "$x = \\frac{3}{2} \\cdot \\frac{4}{7}$",
+            "d": "$x = \\frac{3}{2} \\cdot \\frac{7}{4}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 11,
+        "question": "En cylinder har volymen $63$ liter och diametern $4$ dm. Vilket svarsalternativ är närmast cylinderns höjd?",
+        "answers": {
+            "a": "$4$ dm",
+            "b": "$5$ dm",
+            "c": "$10$ dm",
+            "d": "$16$ dm"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 12,
+        "question": "$8 : 2^{m} = 4^{0}$ Vad är $m$?",
+        "answers": {
+            "a": "$−3$",
+            "b": "$−2$",
+            "c": "$−1$",
+            "d": "$0$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 13,
+        "question": "$3(\\frac{2}{x} - \\frac{1}{6}) = \\frac{3}{2}$\n\nKvantitet I: $x$\n\nKvantitet II: $\\frac{1}{3}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 14,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 15,
+        "question": "En grupp med enbart kvinnor och män består av totalt $100$ personer. Var och en av personerna är antingen högerhänt eller vänsterhänt. $75$ \\% av kvinnorna är högerhänta. $12$ kvinnor är vänsterhänta.\n\nKvantitet I: Antalet kvinnor i gruppen\n\nKvantitet II: Antalet män i gruppen",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 16,
+        "question": "Kvantitet I: $\\sqrt{23}$\n\nKvantitet II: $\\sqrt{9} + \\sqrt{5}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 17,
+        "question": "$y > 0$ \n $\\frac{x}{y} = 5$ \n Kvantitet I: y \n Kvantitet II: $20 procent av x$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 18,
+        "question": "Linjen $L_{1}$ har ekvationen $y = 3x - 1$ \n Linjen $L_{2}$ har ekvationen $y = 5x + 3$ \n Kvantitet I: x-koordinaten för skärningspunkten mellan $L_{1}$ och $L_{2}$ \n Kvantitet II: $0$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 19,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 20,
+        "question": "$x$ och $y$ är två på varandra följande positiva heltal sådana att $y^{2} - x^{2} = 9$.\n\nKvantitet I: $y$\nKvantitet II: $6$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 21,
+        "question": "I Minnas smyckeskrin finns det halsband, armband och ringar. Armbanden är dubbelt så många som ringarna. Halsbanden är $3$ fler än ringarna och $2$ färre än armbanden.\n\nKvantitet I: Antalet halsband i Minnas smyckeskrin\nKvantitet II: $8$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 22,
+        "question": "En mätserie består av tio mätvärden. Vart och ett av mätvärdena är ett heltal mellan $1$ och $50$. Mätseriens median är $25$.\n\nKvantitet I: Mätseriens median om det största mätvärdet tas bort\nKvantitet II: $25$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 23,
+        "question": "Vad är medelvärdet av $x$, $y$, $z$ och $w$?\n\n(1) Medelvärdet av $x$ och $z$ är $83$.\n\n(2) Medelvärdet av $y$ och $w$ är $91$.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 24,
+        "question": "Tre koppar, en vit, en svart och en röd, är staplade på varandra. Vilken färg har den översta koppen?\n\n(1) Den röda koppen är längre ner än den svarta koppen. Den vita koppen är längre ner än den röda koppen.\n\n(2) Den vita och den svarta koppen är längst ifrån varandra.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 25,
+        "question": "En eftermiddag samlar Robin och Anton grankottar och tallkottar. De hittar sammanlagt $83$ kottar. Hur många tallkottar hittar Robin?\n\n(1) Robin och Anton hittar sammanlagt $59$ tallkottar.\n(2) Robin hittar totalt $33$ kottar.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 26,
+        "question": "Aron har fyra bollar: en vit, en gul, en röd och en svart. Vilken av bollarna studsar bäst?\n\n(1) Den gula bollen studsar bättre än både den svarta och den vita. Den röda bollen studsar bättre än den vita.\n(2) Den vita bollen studsar sämre än den svarta. Den svarta bollen studsar sämre än den gula. Den röda bollen studsar bättre än den gula.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 27,
+        "question": "$n$ är ett heltal. Är $n$ ett jämnt tal?\n(1) $3n + 2$ är ett jämnt tal.\n(2) $n^{2} + 3$ är ett udda tal.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 28,
+        "question": "I en burk ligger $10$ enfärgade kulor: $3$ röda och $7$ gröna. Fler kulor, endast röda och gröna, läggs i burken så att förhållandet mellan röda och gröna kulor blir $1:2$. Hur många röda kulor läggs i burken?\n(1) $5$ kulor läggs i burken.\n(2) Antalet röda kulor som läggs i burken är $(\\frac{2}{3})$ av antalet gröna kulor som läggs i burken.",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    }
+]

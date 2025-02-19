@@ -1,0 +1,372 @@
+[
+    {
+        "question_number": 1,
+        "question": "Vilket svarsalternativ är lika med $\\frac{1}{3} + \\frac{3}{4} + \\frac{5}{12}$?",
+        "answers": {
+            "a": "$\\frac{9}{4}$",
+            "b": "$\\frac{9}{6}$",
+            "c": "$\\frac{9}{12}$",
+            "d": "$\\frac{9}{19}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 2,
+        "question": "$L_{1}: y = 2x - 4$\n$L_{2}: y = x - 1$\n\nLinjerna $L_{1}$ och $L_{2}$ skär varandra i punkten P. Vilka koordinater har punkten P?",
+        "answers": {
+            "a": "$(-4, -1)$",
+            "b": "$(1, 0)$",
+            "c": "$(2, -4)$",
+            "d": "$(3, 2)$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 3,
+        "question": "$\\frac{45x}{7} = 5x + 10$ \nVad är x?",
+        "answers": {
+            "a": "$\\frac{7}{8}$",
+            "b": "$\\frac{7}{4}$",
+            "c": "$5$",
+            "d": "$7$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 4,
+        "question": "Vad är $7$ procent av $15$?",
+        "answers": {
+            "a": "$1$",
+            "b": "$1{,}05$",
+            "c": "$1{,}1$",
+            "d": "$1{,}15$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 5,
+        "question": "Vad är differensen mellan medianen och medelvärdet av de sex talen $-1$, $1$, $2$, $4$, $5$ och $7$?",
+        "answers": {
+            "a": "$0$",
+            "b": "$1$",
+            "c": "$2$",
+            "d": "$3$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 6,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "$80{\\circ}$",
+            "b": "$100{\\circ}$",
+            "c": "$120{\\circ}$",
+            "d": "$140{\\circ}$"
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 7,
+        "question": "Vilket svarsalternativ är en funktion som uppfyller att $f(1) > f(0)$?",
+        "answers": {
+            "a": "$f(x) = 2$",
+            "b": "$f(x) = x - 2$",
+            "c": "$f(x) = x^{2} - 2x + 1$",
+            "d": "$f(x) = -2x + 2$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 8,
+        "question": "Vilket svarsalternativ motsvarar uttrycket $(a+b)(c+d)(e+f)$?",
+        "answers": {
+            "a": "$ac + ad + bc + bd + e + f$",
+            "b": "$ac + ad + bc + bd + ae + af + be + bf$",
+            "c": "$ace + bdf$",
+            "d": "$ace + acf + ade + adf + bce + bcf + bde + bdf$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 9,
+        "question": "Arean av en cirkel är $27 \\text{cm}^{2}$. Vilket av svarsalternativen är det bästa närmevärdet för cirkelns diameter?",
+        "answers": {
+            "a": "$1{,}5 , \\text{cm}$",
+            "b": "$4{,}5 , \\text{cm}$",
+            "c": "$6 , \\text{cm}$",
+            "d": "$9 , \\text{cm}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 10,
+        "question": "Vilket värde har $x$ om $\\frac{1}{3} - x = \\frac{1}{2} - \\frac{1}{3}$?",
+        "answers": {
+            "a": "$-\\frac{1}{2}$",
+            "b": "$-\\frac{1}{6}$",
+            "c": "$\\frac{1}{6}$",
+            "d": "$\\frac{1}{2}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 11,
+        "question": "För en viss sorts garn gäller att ett nystan med 130 meter garn väger 50 gram. Emma använder 430 gram av garnet för att sticka en tröja. Vilket svarsalternativ är ett uttryck för att beräkna hur många meter garn Emma använder till tröjan?",
+        "answers": {
+            "a": "$\\frac{50}{130} \\cdot 430$",
+            "b": "$\\frac{50}{430} \\cdot 130$",
+            "c": "$\\frac{130}{50} \\cdot 430$",
+            "d": "$\\frac{430}{130} \\cdot 50$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 12,
+        "question": "Vilket svarsalternativ motsvarar $4 \\cdot 2^{x}$?",
+        "answers": {
+            "a": "$2^{x+2}$",
+            "b": "$2^x$",
+            "c": "$4^{x-1}$",
+            "d": "$8^x$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 13,
+        "question": "$2(x + 3) = 3(x + 4)$\n\nKvantitet I: x\n\nKvantitet II: $0$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 14,
+        "question": "Två vanliga sexsidiga tärningar kastas slumpmässigt en gång.\n\nKvantitet I: Sannolikheten att summan av det tärningarna visar är $10$\n\nKvantitet II: Sannolikheten att summan av det tärningarna visar är $4$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 15,
+        "question": "Kvantitet I: $\\frac{5}{6} + \\frac{5}{6}$\n\nKvantitet II: \\frac{5}{6} \\cdot \\frac{5}{6}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "information är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 16,
+        "question": "Kvantitet I: Arean av en triangel med basen $b$ och höjden $h_{1}$ \n\nKvantitet II: Arean av en triangel med basen $b - 1$ och höjden $h_{2}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 17,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 18,
+        "question": "Kvantitet I: En fjärdedel av arean av en cirkel med radien $1 \\text{cm}$ \n\nKvantitet II: Tre fjärdedelar av arean av en kvadrat med sidan $1 \\text{cm}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 19,
+        "question": "Kvantitet I: $\\sqrt{7} + \\sqrt{3}$\n\nKvantitet II: $\\sqrt{10}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 20,
+        "question": "x och y är positiva heltal sådana att $xy = 36$.\n\nKvantitet I: $x + y$, \n\nKvantitet II: $18$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 21,
+        "question": "Kvantitet I: Antalet minuter som det tar att färdas $40$ km med hastigheten $100$ \\frac{km}{h}\n\nKvantitet II: Antalet minuter som det tar att färdas $40$ km med hastigheten $40 \\frac{m}{s}",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 22,
+        "question": "x > 2\n\n$\\frac{125}{\\sqrt{x-2}} = 25$\n\nKvantitet I: $x - 2$\n\nKvantitet II: $25$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 23,
+        "question": "Vilken area har rektangeln R? \n\n(1) En sida i R är $7 \\text{cm}$.\n(2) R har omkretsen $20 \\text{cm}$.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 24,
+        "question": "Är $x < 0$?\n\n(1) $4x = -8$\n\n(2) $x^{5} < 0$\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 25,
+        "question": "På en skola finns de fyra klasserna 1A, 1B, 2A och 2B. Hur många barn går i klass 1A?\n(1) I klasserna 1A och 1B går det sammanlagt $51$ barn.\nI klasserna 1A och 2A går det sammanlagt $53$ barn.\n\n(2) I klass 2B går det $24$ barn. Det går $103$ barn i de fyra klasserna tillsammans.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 26,
+        "question": "Glas A rymmer $80$ \\% av det som ryms i glas B. Hur mycket rymmer glas B?\n\n(1) När glas A är helt fyllt innehåller det $\\frac{4}{5}$ av det som ryms i glas B.\n\n(2) Glas A innehåller $6$ cl och är halvfullt. Glas B är fyllt till $75$ \\%.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 27,
+        "question": "En dag handlar Åke i en bokhandel, en klädaffär och en skoaffär. Han handlar för sammanlagt $1600$ kronor. Hur mycket handlar Åke för i skoaffären?\n\n(1) I bokhandeln handlar Åke för en femtedel av det han handlar för i skoaffären. I klädaffären handlar han för dubbelt så mycket som i bokhandeln.\n\n(2) Det sammanlagda beloppet som Åke handlar för i bokhandeln och klädaffären är mer än hälften av vad han handlar för i skoaffären.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 28,
+        "question": "Emma, Marie och Petra är alla olika långa. Deras medianlängd är $173$ cm. Vem av dem är längst?\n\n(1) Emma är $173$ cm lång. Det skiljer mindre än $10$ cm i längd mellan Emma och den som är längst.\n\n(2) Om Marie hade varit $5$ cm kortare så skulle gruppens medianlängd ändå ha varit $173$ cm.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    }
+]

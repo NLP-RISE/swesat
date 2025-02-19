@@ -1,0 +1,362 @@
+[
+    {
+        "question_number": 1,
+        "question": "Vilket värde har $x$ om $\\frac{x}{3} + \\frac{1}{4} = \\frac{11}{12}$?",
+        "answers": {
+            "a": "$2$",
+            "b": "\\frac{5}{2}",
+            "c": "\\frac{9}{4}",
+            "d": "$11$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 2,
+        "question": "Visual required to solve this question",
+        "answers": {},
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "graph",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 3,
+        "question": "Vilket heltal är närmast $\\sqrt{65} + \\sqrt{35}$?",
+        "answers": {
+            "a": "$10$",
+            "b": "$12$",
+            "c": "$14$",
+            "d": "$16$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 4,
+        "question": "Vilket svarsalternativ motsvarar $\\frac{\\frac{3}{5}}{2 - \\frac{11}{10}}$?",
+        "answers": {
+            "a": "$-\\frac{2}{3}$",
+            "b": "$-\\frac{3}{50}$",
+            "c": "$\\frac{27}{50}$",
+            "d": "$\\frac{2}{3}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 5,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "$80^\\circ$",
+            "b": "$90^\\circ$",
+            "c": "$100^\\circ$",
+            "d": "$110^\\circ$"
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 6,
+        "question": "Vilket svarsalternativ motsvarar $x^{2} + x - 12$?",
+        "answers": {
+            "a": "$(x - 3)(x - 4)$",
+            "b": "$(x - 3)(x + 4)$",
+            "c": "$(x + 3)(x - 4)$",
+            "d": "$(x + 3)(x + 4)$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 7,
+        "question": "$x > 0$\nVad är $\\left( x^{2}\\right)^{\\frac{5}{7}}$?",
+        "answers": {
+            "a": "$x^{\\frac{5}{14}$",
+            "b": "$x^{\\frac{10}{7}$",
+            "c": "$x^{\\frac{10}{14}$",
+            "d": "$x^{\\frac{25}{49}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 8,
+        "question": "Vilket är det största primtalet som är mindre än $100$?",
+        "answers": {
+            "a": "$91$",
+            "b": "$93$",
+            "c": "$97$",
+            "d": "$99$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 9,
+        "question": "Linjerna som ges av $y = -2x + 2$ och $y = 2x + 4$ skär varandra i en punkt. Vilken x-koordinat har punkten?",
+        "answers": {
+            "a": "$-2$",
+            "b": "$-1$",
+            "c": "$-\\frac{1}{2}$",
+            "d": "$0$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 10,
+        "question": "Det finns två kvadrater, en gul och en röd. Sidan i den gula kvadraten är 6 cm längre än sidan i den röda kvadraten. Den gula kvadratens area är $48 cm^{2}$ större än den röda kvadratens area. Hur stor area har den röda kvadraten?",
+        "answers": {
+            "a": "$1 cm^{2}$",
+            "b": "$16 cm^{2}$",
+            "c": "$25 cm^{2}$",
+            "d": "$36 cm^{2}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 11,
+        "question": "Medelvikten av fyra lådor är $5{,}5$ kg och medianvikten är $5$ kg. Vad är den lägsta möjliga vikten för den tyngsta lådan?",
+        "answers": {
+            "a": "$5{,}5$ kg",
+            "b": "$6$ kg",
+            "c": "$6{,}5$ kg",
+            "d": "$7$ kg"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 12,
+        "question": "En bil kör med hastigheten x $\\frac{m}{s}$. Vilket svarsalternativ motsvarar denna hastighet uttryckt i $\\frac{km}{h}$?",
+        "answers": {
+            "a": "$\\frac{x}{6}$",
+            "b": "$9x$",
+            "c": "$\\frac{18x}{5}$",
+            "d": "$36x$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 13,
+        "question": "$x > -7$ \n$y > 7$ \n\nKvantitet I: $x$\n\nKvantitet II: $y$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 14,
+        "question": "Kvantitet I: $1 m^{3}$ \n\nKvantitet II: $999 dm^{3}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 15,
+        "question": "På en arbetsplats finns det $80$ anställda, varav $60$ arbetar i verkstaden och $20$ arbetar på kontoret. $30$ av de anställda cyklar till arbetet.\n\nKvantitet I: Antalet anställda som både arbetar i verkstaden och cyklar till arbetet\n\nKvantitet II: $20$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 16,
+        "question": "Visual required to solve this question",
+        "answers": {},
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 17,
+        "question": "$x > 0$\n\nKvantitet I: En fjärdedel av en femtedel av $x$\nKvantitet II: En femtedel av en fjärdedel av $x$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 18,
+        "question": "$f(x) = 3 \\cdot 2^{x}$\n\nKvantitet I: $4 \\cdot f(2)$\nKvantitet II: $f(4)$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 19,
+        "question": "$x > 0$\n\nKvantitet I: $\\frac{1}{x+1} - \\frac{1}{x}$\nKvantitet II: $\\frac{1}{x} - \\frac{1}{x+1}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 20,
+        "question": "Kvantitet I: Sannolikheten att slumpmässigt plocka upp en blå kula ur en påse som endast innehåller enfärgade kulor: $5$ blå och $15$ vita\n\nKvantitet II: Sannolikheten att slumpmässigt plocka upp en röd kula ur en påse som endast innehåller enfärgade kulor: $4$ röda och $14$ vita",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 21,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 22,
+        "question": "$x^{2}y^{3} > 0$ \n $xy < 0$\n\nKvantitet I: $x$ \nKvantitet II: $y$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 23,
+        "question": "De tre vännerna Albert, Felix och Oskar är alla olika långa. Hur lång är Albert?\n(1) Oskar är $5$ cm längre än Felix. Felix är $13$ cm kortare än Albert.\n(2) Medelvärdet av vännernas längder är $181$ cm. Både Oskar och Felix är kortare än $181$ cm.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 24,
+        "question": "Vilket värde har $x$?\n(1) $4$ \\% av $x$ är $15$ \\% av $400$.\n(2) $3x + 5y = 4000$\n$y = -100$\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 25,
+        "question": "På ett bord ligger fem läroböcker på rad: en biologibok, en engelskabok, en fysikbok, en kemibok och en matematikbok. Böckerna är numrerade 1–5 från vänster till höger. Vilket nummer har matematikboken?\n\n(1) Kemiboken ligger intill både matematikboken och fysikboken. Kemiboken har nummer $2$. Matematikboken har inte nummer $3$.\n\n(2) Engelskaboken ligger intill biologiboken. Biologiboken ligger intill fysikboken.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 26,
+        "question": "Vilket värde har $xyz$?\n\n(1) $xy = 1$\n\n(2) $yz = 1$\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 27,
+        "question": "Ella, Sophie och Ylva bor på varsin våning i ett trevåningshus. Vem bor på vilken våning?\n(1) Ylva bor minst en våning under Sophie. Sophie bor minst en våning över Ella.\n(2) Ellas och Ylvas våningar angränsar till varandra. Sophie bor på översta våningen.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 28,
+        "question": "Anton och Bert startar samtidigt och springer mot varandra längs med samma raka väg, var och en med sin egen konstanta hastighet. När de startar är de $3$ km från varandra. Hur långt har Bert sprungit när de möts?\n(1) Bert springer $50$ \\% snabbare än Anton.\n(2) Antons hastighet är $8 \\frac{km}{h}$ och de möts efter 9 minuter.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    }
+]

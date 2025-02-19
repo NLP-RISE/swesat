@@ -1,0 +1,122 @@
+[
+    {
+        "question_number": 1,
+        "question": "signifikans",
+        "answers": {
+            "A": "undantag",
+            "B": "skillnad",
+            "C": "måluppfyllelse",
+            "D": "uppfattning",
+            "E": "betydelse"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 2,
+        "question": "blottlagd",
+        "answers": {
+            "A": "känslosam",
+            "B": "värdelös",
+            "C": "synliggjord",
+            "D": "övergiven",
+            "E": "undanröjd"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 3,
+        "question": "mitos",
+        "answers": {
+            "A": "celldelning",
+            "B": "uttorkning",
+            "C": "blödning",
+            "D": "sårläkning",
+            "E": "befruktning"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 4,
+        "question": "revidera",
+        "answers": {
+            "A": "påpeka",
+            "B": "hindra",
+            "C": "ersätta",
+            "D": "ändra",
+            "E": "förneka"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 5,
+        "question": "heterogen",
+        "answers": {
+            "A": "hållbar",
+            "B": "olikartad",
+            "C": "i fast form",
+            "D": "naturell",
+            "E": "dubbelsidig"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 6,
+        "question": "framsynthet",
+        "answers": {
+            "A": "förhoppning",
+            "B": "upplysning",
+            "C": "övertygelse",
+            "D": "utveckling",
+            "E": "förutseende"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 7,
+        "question": "blidka",
+        "answers": {
+            "A": "ångra sig bittert",
+            "B": "lämna i fred",
+            "C": "göra mer vänligt inställd",
+            "D": "inge förtroende",
+            "E": "be om en tjänst"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 8,
+        "question": "galax",
+        "answers": {
+            "A": "himlakropp",
+            "B": "spiralform",
+            "C": "tidsrymd",
+            "D": "stjärnsystem",
+            "E": "planetformation"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 9,
+        "question": "modest",
+        "answers": {
+            "A": "snäll",
+            "B": "pålitlig",
+            "C": "utmanande",
+            "D": "populär",
+            "E": "blygsam"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 10,
+        "question": "som en osalig ande",
+        "answers": {
+            "A": "naiv och godtrogen",
+            "B": "orolig och rastlös",
+            "C": "sviken och olycklig",
+            "D": "hård och känslokall",
+            "E": "hatisk och hämndlysten"
+        },
+        "question_type": "ORD"
+    }
+]

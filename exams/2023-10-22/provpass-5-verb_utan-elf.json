@@ -1,0 +1,122 @@
+[
+    {
+        "question_number": 1,
+        "question": "löpa amok",
+        "answers": {
+            "A": "gå vilse",
+            "B": "få raserianfall",
+            "C": "vara försenad",
+            "D": "bli överlycklig",
+            "E": "ramla omkull"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 2,
+        "question": "påtaglig",
+        "answers": {
+            "A": "bekant",
+            "B": "särskild",
+            "C": "passande",
+            "D": "hastig",
+            "E": "märkbar"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 3,
+        "question": "uppsåtligen",
+        "answers": {
+            "A": "med avsikt",
+            "B": "av välvilja",
+            "C": "i förtroende",
+            "D": "på rätt sätt",
+            "E": "utan tvekan"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 4,
+        "question": "biopsi",
+        "answers": {
+            "A": "blodgivning",
+            "B": "ärrbildning",
+            "C": "röntgenbild",
+            "D": "vävnadsprov",
+            "E": "transplantation"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 5,
+        "question": "detronisera",
+        "answers": {
+            "A": "utmana",
+            "B": "avsätta",
+            "C": "förakta",
+            "D": "avböja",
+            "E": "utvisa"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 6,
+        "question": "fruktlös",
+        "answers": {
+            "A": "mager",
+            "B": "utan innehåll",
+            "C": "som inte ger resultat",
+            "D": "utan anledning",
+            "E": "ofullständig"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 7,
+        "question": "kvintessensen",
+        "answers": {
+            "A": "medelvägen",
+            "B": "det synliga",
+            "C": "den större delen",
+            "D": "det väsentliga",
+            "E": "avbildningen"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 8,
+        "question": "enveten",
+        "answers": {
+            "A": "exakt",
+            "B": "erfaren",
+            "C": "envis",
+            "D": "egoistisk",
+            "E": "enkelriktad"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 9,
+        "question": "ombesörja",
+        "answers": {
+            "A": "ångra",
+            "B": "tillåta",
+            "C": "tvivla",
+            "D": "upprepa",
+            "E": "ordna"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 10,
+        "question": "ingivelse",
+        "answers": {
+            "A": "oväntad gåva",
+            "B": "plötslig impuls",
+            "C": "tillfällig lättnad",
+            "D": "snabb förändring",
+            "E": "positivt besked"
+        },
+        "question_type": "ORD"
+    }
+]

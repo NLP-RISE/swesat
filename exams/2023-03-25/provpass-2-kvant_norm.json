@@ -1,0 +1,367 @@
+[
+    {
+        "question_number": 1,
+        "question": "Vilket svarsalternativ motsvarar uttrycket $(3x - 2x)(y - z)$?",
+        "answers": {
+            "a": "$x + y - z$",
+            "b": "$3x - 2xy - z$",
+            "c": "$xy - xz$",
+            "d": "$3xy + 2xz$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 2,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "39^\\circ",
+            "b": "49^\\circ",
+            "c": "51^\\circ",
+            "d": "61^\\circ"
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 3,
+        "question": "$\\frac{4x}{7} = \\frac{1}{14}$\n\nVilket värde har $x$?",
+        "answers": {
+            "a": "$\\frac{1}{8}$",
+            "b": "$\\frac{1}{7}$",
+            "c": "$\\frac{1}{4}$",
+            "d": "$\\frac{1}{2}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 4,
+        "question": "För $f(x) = kx + m$ gäller att $f(4) - f(2) = 6$. Vilket värde har $k$?",
+        "answers": {
+            "a": "$\\frac{3}{2}$",
+            "b": "$2$",
+            "c": "$3$",
+            "d": "$4$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 5,
+        "question": "Albert har tio tomma lådor som är numrerade med heltalen $1–10$. Först lägger Albert en kula i varje låda vars nummer är jämnt delbart med $1$. Sedan lägger han två kulor i varje låda vars nummer är jämnt delbart med $2$, och så vidare ända upp till $10$. Albert lägger alltså $k$ stycken kulor i varje låda vars nummer är jämnt delbart med $k$ för varje heltal $k$ från $1$ till $10$. Hur många kulor ligger det i lådan som har nummer $8$ när Albert är klar?",
+        "answers": {
+            "a": "$7$",
+            "b": "$9$",
+            "c": "$11$",
+            "d": "$15$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 6,
+        "question": "$x + y = 10$\n\nMedelvärdet av $y$ och $0$ är lika med $5$. Vilket värde har $x$?",
+        "answers": {
+            "a": "$-5$",
+            "b": "$0$",
+            "c": "$5$",
+            "d": "$10$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 7,
+        "question": "Ett lekland har ett bollhav med $21000$ enfärgade bollar i två olika färger: gul och röd. På tre gula bollar går det sju röda bollar. Hur många gula bollar finns det i bollhavet?",
+        "answers": {
+            "a": "$6300$",
+            "b": "$7000$",
+            "c": "$7300$",
+            "d": "$9000$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 8,
+        "question": "Vilket av svarsalternativen är närmast $2\\sqrt{22}$?",
+        "answers": {
+            "a": "$7$",
+            "b": "$9$",
+            "c": "$11$",
+            "d": "$22$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 9,
+        "question": "Vad är differensen mellan $(x+2)^{2}$ och $x^{2}$?",
+        "answers": {
+            "a": "$2$",
+            "b": "$4$",
+            "c": "$2x + 4$",
+            "d": "$4x + 4$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 10,
+        "question": "Areorna av kvadraterna $K_{1}$ och $K_{2}$ förhåller sig som $1:4$. Arean av $K_{1}$ är $9 \\text{cm}^{2}$. Vilken sidlängd har $K_{2}$?",
+        "answers": {
+            "a": "$3 cm$",
+            "b": "$6 cm$",
+            "c": "$9 cm$",
+            "d": "$12 cm$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 11,
+        "question": "Visual required to solve this question",
+        "answers": {},
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 12,
+        "question": "Vilket svarsalternativ motsvarar uttrycket $\\frac{1}{x} + \\frac{1}{y} + \\frac{1}{z}$?",
+        "answers": {
+            "a": "$\\frac{3}{x+y+z}$",
+            "b": "$\\frac{xy+xz+yz}{x+y+z}$",
+            "c": "$\\frac{x+y+z}{xyz}$",
+            "d": "$\\frac{xy+xz+yz}{xyz}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 13,
+        "question": "$x < 0$\n\nKvantitet I: $x^{3} + y^{2}$\n\nKvantitet II: $x^{2} + z^{3}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 14,
+        "question": "De två bilarna A och B kör $50$ km vardera. För bil A räcker en liter bensin till att köra $20$ km, och för bil B räcker en liter bensin till att köra $25$ km.\n\nKvantitet I: Mängden bensin som bil A förbrukar\n\nKvantitet II: Mängden bensin som bil B förbrukar",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 15,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 16,
+        "question": "Kvantitet I: $\\frac{1}{3} + \\frac{1}{12}$ \n\nKvantitet II: $\\frac{1}{4} + \\frac{1}{6}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 17,
+        "question": "$\\frac{1}{x} + \\frac{1}{x} + \\frac{1}{x} = 15$. \n\nKvantitet I: $x$ \n\nKvantitet II: $\\frac{1}{5}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 18,
+        "question": "I en parallellogram gäller att en av vinklarna är $11x$ och en annan av vinklarna är $4x$. \n\nKvantitet I: $x$ \n\nKvantitet II: $15^\\circ$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 19,
+        "question": "Kvantitet I: $\\frac{10^{3}}{10^{2}}$ \n\nKvantitet II: $\\frac{10^{-2}}{10^{-3}}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 20,
+        "question": "Medelvärdet av de tre talen $x$, $y$ och $z$ är lika med $x$. \n\nKvantitet I: $2x$ \n\nKvantitet II: $y + z$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 21,
+        "question": "I triangeln $ABC$ är sidan $AB$ dubbelt så lång som sidan $BC$.\n\nKvantitet I: Längden av sidan $AC$\nKvantitet II: Längden av sidan $AB$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 22,
+        "question": "$0 < a < 1$ \n\nKvantitet I: $a^{-1}$ \nKvantitet II: $1$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 23,
+        "question": "På ett bord ligger fem läroböcker på rad: en biologibok, en engelskabok, en fysikbok, en kemibok och en matematikbok. Böckerna är numrerade $1–5$ från vänster till höger. Vilket nummer har matematikboken?\n\n(1) Matematikboken ligger intill kemiboken, kemiboken ligger intill fysikboken, och fysikboken ligger intill engelskaboken.\n\n(2) Engelskaboken ligger mellan fysikboken och biologiboken. Biologiboken har nummer 5.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 24,
+        "question": "För talen $x$, $y$ och $z$ gäller att $(x + y)(x + z) = 17$. Vilket värde har z?\n\n(1) $x + y = 1$\n\n(2) $y = -4$\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 25,
+        "question": "I en konsthall finns det tre olika slags konstverk: oljemålningar, akvareller och litografier. Hur många akvareller finns det i konsthallen?\n\n(1) I konsthallen finns det $15$ oljemålningar, vilket är hälften av antalet litografier. Det totala antalet konstverk är jämnt delbart med $5$.\n\n(2) I konsthallen finns det fler litografier än akvareller, och fler akvareller än oljemålningar.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 26,
+        "question": "En kakburk innehåller endast pepparkakor i form av stjärnor och hjärtan. Var och en av pepparkakorna är antingen stor eller liten. Hur många små hjärtan finns det i burken?\n\n(1) Det finns lika många stjärnor som hjärtan i burken. Det finns lika många stora som små pepparkakor i burken.\n\n(2) Det finns $24$ stjärnor i burken. $10$ av stjärnorna är stora.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 27,
+        "question": "Maria, Nils, Ove och Petra sitter vid varsin sida kring ett kvadratiskt bord. Endast en av personerna har glasögon, vem? \n\n(1) Maria sitter mitt emot Ove. Det är personen som sitter till höger om Nils som har glasögon. Ove har inte glasögon.\n\n(2) Petra sitter till höger om Maria och till vänster om Ove. Varken Petra eller Nils har glasögon.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 28,
+        "question": "50 liter vatten fördes över från tank A till tank B. Volymen vatten i tank B ökade då med $20$ \\%. Hur mycket vatten fanns det från början i tank A?\n\n(1) Den sammanlagda volymen vatten i tankarna var $450$ liter.\n\n(2) Efter överföringen var det hälften så mycket vatten i tank A som i tank B.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    }
+]

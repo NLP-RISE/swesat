@@ -1,0 +1,356 @@
+[
+    {
+        "question_number": 1,
+        "question": "$4(x-2) = -2(x+4)$\nVad är $x$?",
+        "answers": {
+            "a": "$0$",
+            "b": "$1$",
+            "c": "$2$",
+            "d": "$8$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 2,
+        "question": "Talen $13$, $14$, $26$ och $x$ har medelvärdet $16$. Vilket värde har $x$?",
+        "answers": {
+            "a": "$11$",
+            "b": "$13$",
+            "c": "$16$",
+            "d": "$17$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 3,
+        "question": "Vad är $\\frac{1}{3} \\left( \\frac{1}{2} + \\frac{1}{6} \\right)$?",
+        "answers": {
+            "a": "$\\frac{1}{6}$",
+            "b": "$\\frac{2}{6}$",
+            "c": "$\\frac{1}{9}$",
+            "d": "$\\frac{2}{9}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 4,
+        "question": "$f(x) = 4x - 4$\n$g(x) = -3f(x) - 12$\nVilket värde har $g(2)$?",
+        "answers": {
+            "a": "$-24$",
+            "b": "$-18$",
+            "c": "$-12$",
+            "d": "$0$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 5,
+        "question": "$40$ \\% av x är $54$. Vilket värde har $x$?",
+        "answers": {
+            "a": "$90$",
+            "b": "$125$",
+            "c": "$135$",
+            "d": "$216$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 6,
+        "question": "$x$, $y$, $z$ och $w$ är fyra på varandra följande heltal sådana att $x < y < z < w$. Vad är $\\left( z + w \\right) - \\left( x + y\\right)?",
+        "answers": {
+            "a": "$-4$",
+            "b": "$-2$",
+            "c": "$2$",
+            "d": "$4$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 7,
+        "question": "$a \\neq 0$\n\n$Vilket svarsalternativ motsvarar uttrycket $\\frac{a^{5} \\cdot a^{-3}}{a^{-8} \\cdot a^{2}}$?",
+        "answers": {
+            "a": "$a^{-4}$",
+            "b": "$a^{2}$",
+            "c": "$a^{4}$",
+            "d": "$a^{8}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 8,
+        "question": "$\\frac{4}{x} = \\frac{5}{6}$\nVad är $x$?",
+        "answers": {
+            "a": "$\\frac{4 \\cdot 6}{5}$",
+            "b": "$\\frac{4 \\cdot 5}{6}$",
+            "c": "$\\frac{6}{4 \\cdot 5}$",
+            "d": "$\\frac{5}{4 \\cdot 6}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 9,
+        "question": "Innermåtten för en cylinderformad marmeladburk är sådana att höjden är $5$ cm och radien är $2$ cm. Vilket är det minsta antalet sådana burkar som behövs för att rymma $0{,}6$ liter marmelad?",
+        "answers": {
+            "a": "$5$",
+            "b": "$10$",
+            "c": "$15$",
+            "d": "$20$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 10,
+        "question": "Visual required to solve this question",
+        "answers": {},
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 11,
+        "question": "Vad är $\\sqrt{36 \\cdot 10^{36}}$?",
+        "answers": {
+            "a": "$18 \\cdot 10^{18}$",
+            "b": "$6 \\cdot 10^{18}$",
+            "c": "$18 \\cdot 10^{6}$",
+            "d": "$6 \\cdot 10^{6}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 12,
+        "question": "Visual required to solve this question",
+        "answers": {},
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 13,
+        "question": "Kvantitet I: $25$ promille av $40000$\nKvantitet II: $1600$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 14,
+        "question": "En påse innehåller endast enfärgade kulor: röda och blå. Fyra kulor ska slumpmässigt plockas ur påsen, utan återläggning. Oavsett vilka fyra kulor som plockas ur påsen, så är minst en av de plockade kulorna röd.\nKvantitet I: Antalet kulor i påsen\nKvantitet II: $5$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 15,
+        "question": "Kvantitet I: Två gånger arean av en kvadrat med sidan $x$\nKvantitet II: Tre fjärdedelar av arean av en cirkel med radien $x$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 16,
+        "question": "$2y - 4x = 3$\nKvantitet I: $y$\nKvantitet II: $1{,}5 + 2x$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 17,
+        "question": "Medelvärdet av två tal är $35$. Ett av talen är x.\n\nKvantitet I: $x$\nKvantitet II: $70 - x$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 18,
+        "question": "Kvantitet I: $\\frac{3}{8} \\cdot \\frac{6}{11}$\nKvantitet II: $\\frac{\\frac{3}{8}}{\\frac{11}{6}}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 19,
+        "question": "$x$ är ett jämnt positivt heltal.\n\nKvantitet I:\n$(-7)^x$\n\nKvantitet II:\n$(-7)^{x+1}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 20,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": ""
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 21,
+        "question": "Vinklarna i en triangel förhåller sig som $1:5:9$.\n\nKvantitet I: Triangelns minsta vinkel\nKvantitet II: $15^\\circ$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 22,
+        "question": "Kvantitet I: Den positiva lösningen till ekvationen $(x - 3)(x + 2) = 0$\nKvantitet II: Den positiva lösningen till ekvationen $(x + 3)(x - 2) = 0$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 23,
+        "question": "Allan, Billy, Cilla och Dolly är bjudna på halloweenfest. De är alla utklädda till olika saker. En av dem är utklädd till fladdermus, en till spöke, en till varulv och en till zombie. Vad är Dolly utklädd till?\n\n(1) Cilla är utklädd till fladdermus. Det är Allan eller Billy som är utklädd till varulv.\n\n(2) Det är Billy eller Dolly som är utklädd till zombie. Allan är utklädd till spöke.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 24,
+        "question": "Eva har en låda med knappar. Var och en av knapparna har två eller fyra hål. Varje knapp är dessutom antingen vit eller svart. Hur många knappar har Eva i lådan?\n\n(1) $15$ av de vita knapparna har fyra hål. Det finns dubbelt så många vita som svarta knappar.\n\n(2) Det finns hälften så många svarta knappar som vita knappar. Ingen av de svarta knapparna har två hål.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 25,
+        "question": "I en damm finns det endast enfärgade näckrosor: vita och gula. Hur många gula näckrosor finns det i dammen?\n\n(1) Det finns sammanlagt $50$ näckrosor i dammen.\n\n(2) Om hälften av de vita näckrosorna istället var gula, så skulle $86$ procent av näckrosorna i dammen vara gula.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 26,
+        "question": "Visual required to solve this question",
+        "answers": {},
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 27,
+        "question": "$x$ är ett positivt tal. Är $x > 5$? \n(1) $x > \\sqrt{26} $ \n(2) $\\sqrt{x} > frac{5}{2}$\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 28,
+        "question": "I ett sjusiffrigt tal gäller att siffran $1$ förekommer fyra gånger och siffran $2$ förekommer tre gånger. Vilket är det sjusiffriga talet?\n(1) I talet förekommer aldrig siffran $1$ två gånger i följd.\n(2) I talet efterföljs alltid siffran $2$ direkt av siffran $1$.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question_number": 1,
+        "question": "alf",
+        "answers": {
+            "A": "änglabild",
+            "B": "folksaga",
+            "C": "trollkarl",
+            "D": "naturväsen",
+            "E": "skyddshelgon"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 2,
+        "question": "delegera",
+        "answers": {
+            "A": "stifta lagar",
+            "B": "påbörja ett projekt",
+            "C": "överlåta beslutsrätt",
+            "D": "avsluta en anställning",
+            "E": "bevilja undantag"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 3,
+        "question": "polaritet",
+        "answers": {
+            "A": "ytterlighet",
+            "B": "väderfenomen",
+            "C": "motsatsförhållande",
+            "D": "vänskapsband",
+            "E": "klimatzon"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 4,
+        "question": "anstötlig",
+        "answers": {
+            "A": "bristfällig",
+            "B": "hetsig",
+            "C": "upprörande",
+            "D": "ömtålig",
+            "E": "fördomsfull"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 5,
+        "question": "dialektik",
+        "answers": {
+            "A": "argumentationsteknik",
+            "B": "skendemokrati",
+            "C": "uppfostringsprincip",
+            "D": "religionssamverkan",
+            "E": "behandlingsresultat"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 6,
+        "question": "vara gripet ur luften",
+        "answers": {
+            "A": "sakna grund",
+            "B": "vara osynligt",
+            "C": "komma plötsligt",
+            "D": "vara en sista utväg",
+            "E": "sakna innehåll"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 7,
+        "question": "inskränkning",
+        "answers": {
+            "A": "anspelning",
+            "B": "förslappning",
+            "C": "utfrysning",
+            "D": "tillrättavisning",
+            "E": "begränsning"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 8,
+        "question": "oöverlagd",
+        "answers": {
+            "A": "avslöjad",
+            "B": "oslagbar",
+            "C": "påtaglig",
+            "D": "opåverkad",
+            "E": "förhastad"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 9,
+        "question": "koral",
+        "answers": {
+            "A": "droppsten",
+            "B": "kyrkosång",
+            "C": "samlingsrum",
+            "D": "juvelsmycke",
+            "E": "däggdjur"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 10,
+        "question": "i sin linda",
+        "answers": {
+            "A": "i sitt hem",
+            "B": "i sin början",
+            "C": "i sitt sammanhang",
+            "D": "i sin ensamhet",
+            "E": "i sitt slutskede"
+        },
+        "question_type": "ORD"
+    }
+]

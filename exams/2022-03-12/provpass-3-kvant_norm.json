@@ -1,0 +1,367 @@
+[
+    {
+        "question_number": 1,
+        "question": "Vad är $4(6(7 - 2) + 5)$?",
+        "answers": {
+            "a": "$125$",
+            "b": "$140$",
+            "c": "$165$",
+            "d": "$171$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 2,
+        "question": "$f(x) = \\frac{2x + 7}{3x + c}$\n\nVilket värde har konstanten $c$ om $f(2) = 1$?",
+        "answers": {
+            "a": "$\\frac{3}{2}$",
+            "b": "$5$",
+            "c": "$6$",
+            "d": "$21$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 3,
+        "question": "Vilket svarsalternativ är lika med $\\frac{1}{4} + \\frac{2}{16} + \\frac{3}{32}$?",
+        "answers": {
+            "a": "$\\frac{6}{32}$",
+            "b": "$\\frac{11}{32}$",
+            "c": "$\\frac{15}{32}$",
+            "d": "$\\frac{6}{52}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 4,
+        "question": "Vilket av svarsalternativen motsvarar $(3x - 3y)(y - x)$?",
+        "answers": {
+            "a": "$2x - 2y$",
+            "b": "$2x - 3y^{2}$",
+            "c": "$3(x^{2} - y^{2})$",
+            "d": "$6xy - 3x^{2} - 3y^{2}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 5,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": ""
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 6,
+        "question": "Talet $2^{25}$ är jämnt delbart med ett av svarsalternativen. Vilket?",
+        "answers": {
+            "a": "$16$",
+            "b": "$24$",
+            "c": "$25$",
+            "d": "$50$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 7,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "$f(x) = 3x + 7$",
+            "b": "$f(x) = 3x + 10$",
+            "c": "$f(x) = -3x + 7$",
+            "d": "$f(x) = -3x + 10$"
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "graph",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 8,
+        "question": "$\\frac{x}{3} + \\frac{x}{4} = x - 2$ \n\nVad är $x$?",
+        "answers": {
+            "a": "$\\frac{14}{5}$",
+            "b": "$\\frac{24}{10}$",
+            "c": "$\\frac{19}{4}$",
+            "d": "$\\frac{24}{5}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 9,
+        "question": "Stina har två olika rabattkuponger som gäller i en viss butik. Den första kupongen ger $10\\%$ rabatt. Den andra kupongen ger $8\\%$ rabatt och sedan ett ytterligare avdrag på $40$ kr. Vid vilket ordinarie pris ger de två olika kupongerna samma rabatterade pris?",
+        "answers": {
+            "a": "$400$ kr",
+            "b": "$500$ kr",
+            "c": "$2000$ kr",
+            "d": "$4000$ kr"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 10,
+        "question": "$10^{2x} = 36$ \n\nVad är $10^{-2x}$?",
+        "answers": {
+            "a": "$-\\frac{1}{36}$",
+            "b": "$\\frac{1}{36}$",
+            "c": "$\\frac{1}{6}$",
+            "d": "$\\frac{100}{36}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 11,
+        "question": "I en låda finns det endast enfärgade röda och svarta kulor. Kalle plockar slumpmässigt kulor ur lådan, en i taget, och lägger tillbaka dem efter varje plockad kula. Sannolikheten att få två svarta kulor efter varandra är då $\\frac{16}{49}$. Vad är sannolikheten att Kalle plockar en röd kula?",
+        "answers": {
+            "a": "$\\frac{3}{7}$",
+            "b": "$\\frac{25}{49}$",
+            "c": "$\\frac{5}{7}$",
+            "d": "$\\frac{40}{49}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 12,
+        "question": "En cirkelskiva med radien $24$ cm delas först i fyra lika stora bitar. Varje bit delas därefter i tre lika stora bitar, vilka i sin tur slutligen delas i två lika stora bitar. Vad är arean av en av bitarna efter den sista delningen?",
+        "answers": {
+            "a": "$12\\pi cm^{2}$",
+            "b": "$24\\pi cm^{2}$",
+            "c": "$48\\pi cm^{2}$",
+            "d": "$64\\pi cm^{2}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 13,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 14,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "graph",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 15,
+        "question": "Kvantitet I: $\\frac{24}{6}$ \nKvantitet II: $\\frac{3}{12} \\cdot 16$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 16,
+        "question": "Kvantitet I: Medelvärdet av mätserien $1$, $1$, $5$, $5$\nKvantitet II: Hälften av medelvärdet av mätserien $2$, $4$, $8$, $10$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 17,
+        "question": "Kvantitet I: $\\left( \\frac{2}{\\sqrt{3}} \\right)^{2}$\n\nKvantitet II: $\\sqrt{\\frac{16}{\\pi^{2}}}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 18,
+        "question": "Visual required to solve this question",
+        "answers": {},
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 19,
+        "question": "Anna, Beda och Clara har tillsammans $66$ karameller. Beda har $19$ karameller och Clara har mer än en tredjedel av karamellerna.\n\nKvantitet I: Antalet karameller som Anna har\n\nKvantitet II: $24$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 20,
+        "question": "$x \\neq 0$\n\nKvantitet I: \\frac{x^{2}j}{2x} - \\frac{2x}{4}\n\nKvantitet II: \\frac{2x}{x} - \\frac{x}{2x}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 21,
+        "question": "$x \\geq 0$\n\nKvantitet I: $sqrt{x}$\n\nKvantitet II: $\\frac{x}{2}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 22,
+        "question": "Peter reser i 2 timmar med hastigheten $5 \\frac{m}{s}$.\nMattias reser i $3$ timmar med hastigheten $12 \\frac{km}{h}$.\n\nKvantitet I: Sträckan som Peter reser\n\nKvantitet II: Sträckan som Mattias reser",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 23,
+        "question": "Ett badhus har tre trampoliner på olika höjd: $1$ meter, $3$ meter och $5$ meter. Daniel, Gabriel och Mikael hoppar från var sin trampolin. Vem hoppar från $5$ meter?\n\n(1) Daniel hoppar inte från $5$ meter.\n\n(2) Gabriel hoppar från en lägre höjd än Mikael.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 24,
+        "question": "I ett garage parkeras endast två slags fordon: bilar och motorcyklar. Det finns $176$ fordon i garaget. Hur många av fordonen är motorcyklar?\n\n(1) Om ytterligare 16 motorcyklar parkeras i garaget så kommer det att vara dubbelt så många motorcyklar som bilar i garaget.\n\n(2) Om ytterligare $x$ bilar och $10$ motorcyklar parkeras i garaget så kommer det att vara lika många bilar som motorcyklar i garaget.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 25,
+        "question": "Kent ska måla ett staket. Han arbetar utan rast och med konstant hastighet. Hur lång tid tar det för honom att måla staketet?\n\n(1) Det tar Kent 2 timmar att måla $\\frac{1}{3}$ av staketet.\n\n(2) Om Kent arbetade dubbelt så fort så skulle det ta honom 2 timmar att måla $\\frac{2}{3}$ av staketet.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 26,
+        "question": "Priset på en vara sänktes med $20$ procent. Vid ett senare tillfälle gjordes en prishöjning. Hur stor var den totala prisändringen i procent?\n\n(1) Varans ursprungspris var $755$ kr.\n\n(2) Prishöjningen var 25 procent.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 27,
+        "question": "Arvid har 12 anteckningsblock för sitt skolarbete. Vart och ett av blocken har antingen rutade eller linjerade blad. Dessutom är vart och ett av blocken i antingen A4-format eller A5-format. Hur många av Arvids anteckningsblock har rutade blad? \n\n(1) $\\frac{1}{4}$ av anteckningsblocken i A4-format har rutade blad.\n\n(2) $\\frac{1}{2}$ av anteckningsblocken i A5-format har rutade blad.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 28,
+        "question": "Är $x > y$?\n\n(1) $x - y > x + y$\n\n(2) $x > 0$\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    }
+]

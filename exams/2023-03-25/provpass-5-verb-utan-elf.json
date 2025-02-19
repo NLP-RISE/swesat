@@ -1,0 +1,122 @@
+[
+    {
+        "question_number": 1,
+        "question": "ihärdig",
+        "answers": {
+            "A": "snabb och explosiv",
+            "B": "hård och okänslig",
+            "C": "envis och uthållig",
+            "D": "ivrig och hoppfull",
+            "E": "erfaren och duktig"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 2,
+        "question": "hereditet",
+        "answers": {
+            "A": "ensamhet",
+            "B": "vänlighet",
+            "C": "fromhet",
+            "D": "sjuklighet",
+            "E": "ärftlighet"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 3,
+        "question": "begrunda",
+        "answers": {
+            "A": "tillägna sig",
+            "B": "instämma i",
+            "C": "ta itu med",
+            "D": "fundera på",
+            "E": "besluta sig för"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 4,
+        "question": "klädsam",
+        "answers": {
+            "A": "blyg",
+            "B": "ytlig",
+            "C": "modern",
+            "D": "enkel",
+            "E": "passande"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 5,
+        "question": "med nöd och näppe",
+        "answers": {
+            "A": "av tvång",
+            "B": "till slut",
+            "C": "nästan inte",
+            "D": "på pricken",
+            "E": "utan problem"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 6,
+        "question": "utfall",
+        "answers": {
+            "A": "minskning",
+            "B": "avvikelse",
+            "C": "sannolikhet",
+            "D": "resultat",
+            "E": "överskott"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 7,
+        "question": "cementera",
+        "answers": {
+            "A": "slutföra",
+            "B": "jämna till",
+            "C": "göra avtryck",
+            "D": "stänga inne",
+            "E": "göra beständig"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 8,
+        "question": "trollbunden",
+        "answers": {
+            "A": "inbillad",
+            "B": "fascinerad",
+            "C": "grundlurad",
+            "D": "förvirrad",
+            "E": "överraskad"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 9,
+        "question": "lasyr",
+        "answers": {
+            "A": "finslipad yta",
+            "B": "genomskinlig färg",
+            "C": "stilfull dekoration",
+            "D": "oönskad beläggning",
+            "E": "förgrenat mönster"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 10,
+        "question": "vag",
+        "answers": {
+            "A": "obestämd",
+            "B": "avlägsen",
+            "C": "betydelselös",
+            "D": "tillfällig",
+            "E": "ostadig"
+        },
+        "question_type": "ORD"
+    }
+]

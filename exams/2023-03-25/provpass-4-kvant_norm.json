@@ -1,0 +1,362 @@
+[
+    {
+        "question_number": 1,
+        "question": "$5(x - 4) = 2(8 + x)$ \nVad är $x$?",
+        "answers": {
+            "a": "$\\frac{4}{3}$",
+            "b": "$5$",
+            "c": "$\\frac{36}{7}$",
+            "d": "$12$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 2,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": ""
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "table",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 3,
+        "question": "Vilket svarsalternativ motsvarar uttrycket $x^{2} - 6x + 5$?",
+        "answers": {
+            "a": "$(x - 2)(x - 3)$",
+            "b": "$(x - 1)(x - 5)$",
+            "c": "$(x + 3)(x - 2)$",
+            "d": "$(x + 5)(x - 1)$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 4,
+        "question": "Visual required to solve this question",
+        "answers": {
+            "a": "36°",
+            "b": "45°",
+            "c": "54°",
+            "d": "72°"
+        },
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 5,
+        "question": "Vad är $\\left( \\frac{1}{2} + \\frac{2}{5} \\right) \\left( \\frac{1}{2} - \\frac{2}{5} \\right)$?",
+        "answers": {
+            "a": "$\\frac{1}{7}$",
+            "b": "$\\frac{1}{10}$",
+            "c": "$\\frac{3}{100}$",
+            "d": "$\\frac{9}{100}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 6,
+        "question": "$xy + k = k$ \n $y \\neq 0$ \n Vilket svarsalternativ är med säkerhet korrekt?",
+        "answers": {
+            "a": "$x > y$",
+            "b": "$x = 0$",
+            "c": "$x - y = 0$",
+            "d": "$xy = -1$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 7,
+        "question": "Visual required to solve this question",
+        "answers": {},
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 8,
+        "question": "Vilket svarsalternativ är en ekvation för en linje som går genom punkten $(5, 13)$?",
+        "answers": {
+            "a": "$y = -5x + 12$",
+            "b": "$y = -3x + 25$",
+            "c": "$y = 3x - 2$",
+            "d": "$y = 5x - 13$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 9,
+        "question": "För de tre positiva heltalen $x$, $y$ och $z$ gäller att $x < y < z$. Medelvärdet av talen är $7$ och medianen är $9$. Vilket är det största möjliga värdet på $x$?",
+        "answers": {
+            "a": "$1$",
+            "b": "$2$",
+            "c": "$3$",
+            "d": "$4$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 10,
+        "question": "Eva har en tunna som är fylld till en femtedel med vatten. Eva vattnar sin trädgård och fyller sin vattenkanna från tunnan. Vattenkannan rymmer $5$ liter och då Eva vattnar använder hon tre fulla kannor. När Eva har vattnat klart är tunnan fylld till en åttondel. Vilken volym har tunnan?",
+        "answers": {
+            "a": "$45$ liter",
+            "b": "$120$ liter",
+            "c": "$200$ liter",
+            "d": "$225$ liter"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 11,
+        "question": "$f(x) = \\frac{x}{5} - 1$ \n\n $g(x) = 5 \\cdot f(x) + 4$ \n\n Vad är $g(2)$?",
+        "answers": {
+            "a": "$1$",
+            "b": "$3$",
+            "c": "$5$",
+            "d": "$14$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 12,
+        "question": "Vilket svarsalternativ är lika med $2^{2} (5 + 7)^{2}$?",
+        "answers": {
+            "a": "$24^{2}$",
+            "b": "$10^{2} + 14^{2}$",
+            "c": "$24^{4}$",
+            "d": "$10^{4} + 14^{4}$"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "XYZ"
+    },
+    {
+        "question_number": 13,
+        "question": "$f(x) = 83 - 9x$\n\nKvantitet I: Värdet av $x$ då $f(x)$ är lika med noll\n\nKvantitet II: $9{,}5$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 14,
+        "question": "Kvantitet I: $\\frac{1}{2} \\cdot \\frac{3}{4}$\n\nKvantitet II: $\\frac{\\frac{1}{2}}{\\frac{3}{4}}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 15,
+        "question": "Hampus har sju mynt. Vart och ett av mynten är antingen en femkrona eller en tiokrona. Hampus vill köpa en leksak som kostar $105$ kronor. För att kunna köpa leksaken lånar han mellanskillnaden av sin mamma.\n\nKvantitet I: Beloppet som Hampus lånar av sin mamma\n\nKvantitet II: $60$ kronor",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 16,
+        "question": "Kvantitet I: $\\frac{3x - 1}{4}$\n\nKvantitet II: $0{,}75x - 0{,}25$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 17,
+        "question": "En vanlig sexsidig tärning kastas slumpmässigt fem gånger.\n\nKvantitet I: Medianen av de fem utfallen\nKvantitet II: Det näst största värdet av de fem utfallen",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 18,
+        "question": "$x > 4$\n\nKvantitet I: $\\sqrt{x}$\nKvantitet II: $\\frac{x}{2}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 19,
+        "question": "Kvantitet I: $75$ \\% av arean av en cirkel med radien $4$ cm \n\n Kvantitet II: Arean av en cirkel med radien $3$ cm",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 20,
+        "question": "$2^{x-1} = 32$ \n\n Kvantitet I: $x$ \n\n Kvantitet II: $5 \\cdot x^{0}$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 21,
+        "question": "$x$ är $75$ procent av $80$.\n$8$ är $y$ procent av $12$.\n\nKvantitet I: $x$\nKvantitet II: $y$",
+        "answers": {
+            "a": "I är större än II",
+            "b": "II är större än I",
+            "c": "I är lika med II",
+            "d": "informationen är otillräcklig"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 22,
+        "question": "Visual required to solve this question",
+        "answers": {},
+        "is_accompanied_with_visual": "yes",
+        "visual_type": "diagram",
+        "question_type": "KVA"
+    },
+    {
+        "question_number": 23,
+        "question": "På en badplats finns det $70$ personer: barn och vuxna. Var och en av personerna på badplatsen är antingen i vattnet eller på land. Hur många barn är i vattnet?\n\n(1) Antalet barn på land är lika med antalet vuxna i vattnet.\n\n(2) Antalet vuxna på badplatsen är lika med antalet personer på land.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 24,
+        "question": "En antilop, en giraff och en zebra står på rad vid ett vattenhål. Vilket av de tre djuren står i mitten?\n\n(1) Både giraffen och antilopen står till vänster om zebran.\n\n(2) Både zebran och antilopen står till höger om giraffen.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 25,
+        "question": "I en klass finns det $x$ elever, där $25 < x < 60$. Hur många elever finns det i klassen?\n\n(1) Om eleverna delas in i grupper om $5$ blir det $4$ elever över.\n(2) Eleverna kan delas in i grupper om $9$.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 26,
+        "question": "Tre skattkistor är märkta $A$, $B$ respektive $C$. En av kistorna är tom, en innehåller en liten skatt och en innehåller en stor skatt. I vilken kista finns den stora skatten?\n\n(1) Kista $B$ är inte tom. Den stora skatten finns inte i kista $A$.\n(2) Kista $C$ är tom. Den lilla skatten finns inte i kista $B$.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 27,
+        "question": "Hur många syskon har Alice?\n\n(1) Alice har dubbelt så många systrar som bröder.\n(2) Om Alice hade haft 3 syskon färre så skulle hon ha haft hälften så många syskon som hon verkligen har.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    },
+    {
+        "question_number": 28,
+        "question": "Vad är medelvärdet av $a$ och $b$?\n\n(1) Medelvärdet av $(a + 5)$ och $(b + 9)$ är lika med $10{,}5$.\n(2) Medelvärdet av $a$, $(b - 1)$ och $3$ är lika med $3$.\n\nTillräcklig information för lösningen erhålls",
+        "answers": {
+            "a": "i (1) men ej i (2)",
+            "b": "i (2) men ej i (1)",
+            "c": "i (1) tillsammans med (2)",
+            "d": "i (1) och (2) var för sig",
+            "e": "ej genom de båda påståendena"
+        },
+        "is_accompanied_with_visual": "no",
+        "visual_type": "",
+        "question_type": "NOG"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question_number": 1,
+        "question": "gourmand",
+        "answers": {
+            "A": "munter person",
+            "B": "kunnig person",
+            "C": "argsint person",
+            "D": "omtyckt person",
+            "E": "matglad person"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 2,
+        "question": "bojkotta",
+        "answers": {
+            "A": "tala illa om",
+            "B": "göra sig fri från",
+            "C": "vägra befatta sig med",
+            "D": "göra slut på",
+            "E": "förstöra för"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 3,
+        "question": "framstöt",
+        "answers": {
+            "A": "planering",
+            "B": "initiativ",
+            "C": "uppvisning",
+            "D": "tillfälle",
+            "E": "yttrande"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 4,
+        "question": "kognitiv",
+        "answers": {
+            "A": "intetsägande",
+            "B": "som gäller kroppen",
+            "C": "angelägen",
+            "D": "som rör intellektet",
+            "E": "fantasieggande"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 5,
+        "question": "seminarium",
+        "answers": {
+            "A": "inledande dialog",
+            "B": "kort presentation",
+            "C": "individuell undervisning",
+            "D": "större sammanträdesrum",
+            "E": "kunskapshöjande diskussion"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 6,
+        "question": "trollbinda",
+        "answers": {
+            "A": "förhindra",
+            "B": "fascinera",
+            "C": "bluffa",
+            "D": "förvirra",
+            "E": "överraska"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 7,
+        "question": "jargong",
+        "answers": {
+            "A": "en positiv stämning",
+            "B": "ett vänligt bemötande",
+            "C": "en grupps språkbruk",
+            "D": "ett trångt utrymme",
+            "E": "en välljudande klang"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 8,
+        "question": "väsensskild",
+        "answers": {
+            "A": "innehållslös",
+            "B": "overklig",
+            "C": "motbjudande",
+            "D": "obetydlig",
+            "E": "annorlunda"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 9,
+        "question": "resiliens",
+        "answers": {
+            "A": "framgång",
+            "B": "nedrustning",
+            "C": "återhämtningsförmåga",
+            "D": "bakåtsträvan",
+            "E": "avståndstagande"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 10,
+        "question": "ymnigt",
+        "answers": {
+            "A": "rikligt",
+            "B": "fuktigt",
+            "C": "virrigt",
+            "D": "ljudligt",
+            "E": "smakligt"
+        },
+        "question_type": "ORD"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question_number": 1,
+        "question": "vital",
+        "answers": {
+            "A": "livskraftig",
+            "B": "hoppfull",
+            "C": "ombytlig",
+            "D": "fullvuxen",
+            "E": "uppmärksam"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 2,
+        "question": "späck",
+        "answers": {
+            "A": "vagn",
+            "B": "lukt",
+            "C": "hatt",
+            "D": "kruka",
+            "E": "fett"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 3,
+        "question": "alternera",
+        "answers": {
+            "A": "bygga om",
+            "B": "ersätta",
+            "C": "förnya sig",
+            "D": "erbjuda",
+            "E": "turas om"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 4,
+        "question": "falang",
+        "answers": {
+            "A": "regelverk",
+            "B": "gruppering",
+            "C": "musikstycke",
+            "D": "utbyggnad",
+            "E": "klädesplagg"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 5,
+        "question": "modstulet",
+        "answers": {
+            "A": "envist",
+            "B": "sorglöst",
+            "C": "uppgivet",
+            "D": "bortglömt",
+            "E": "oförskräckt"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 6,
+        "question": "prolog",
+        "answers": {
+            "A": "inledning",
+            "B": "beskrivning",
+            "C": "sammanfattning",
+            "D": "tillbakablick",
+            "E": "slutord"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 7,
+        "question": "emanciperad",
+        "answers": {
+            "A": "frigjord",
+            "B": "nyfiken",
+            "C": "påhittig",
+            "D": "begåvad",
+            "E": "sällskaplig"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 8,
+        "question": "spjuver",
+        "answers": {
+            "A": "spejare",
+            "B": "luffare",
+            "C": "jägare",
+            "D": "skämtare",
+            "E": "lögnare"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 9,
+        "question": "freda sig",
+        "answers": {
+            "A": "ge sig",
+            "B": "isolera sig",
+            "C": "behärska sig",
+            "D": "vila upp sig",
+            "E": "skydda sig"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 10,
+        "question": "bestörtning",
+        "answers": {
+            "A": "aggression",
+            "B": "livsfarlig manöver",
+            "C": "förskräckelse",
+            "D": "plötslig förändring",
+            "E": "missnöje"
+        },
+        "question_type": "ORD"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question_number": 1,
+        "question": "insinuera",
+        "answers": {
+            "A": "antyda",
+            "B": "gissa",
+            "C": "berömma",
+            "D": "ljuga",
+            "E": "misstänka"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 2,
+        "question": "mellanting",
+        "answers": {
+            "A": "samspel",
+            "B": "anknytning",
+            "C": "uppehåll",
+            "D": "motsvarighet",
+            "E": "blandning"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 3,
+        "question": "otjänlig",
+        "answers": {
+            "A": "otydlig",
+            "B": "orättvis",
+            "C": "oanvändbar",
+            "D": "obegriplig",
+            "E": "otillgänglig"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 4,
+        "question": "parkas",
+        "answers": {
+            "A": "tält",
+            "B": "jacka",
+            "C": "målarduk",
+            "D": "bäddsoffa",
+            "E": "draghund"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 5,
+        "question": "obstinat",
+        "answers": {
+            "A": "trotsig",
+            "B": "okunnig",
+            "C": "nyfiken",
+            "D": "slarvig",
+            "E": "högljudd"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 6,
+        "question": "upptakt",
+        "answers": {
+            "A": "inledning",
+            "B": "markering",
+            "C": "refräng",
+            "D": "anvisning",
+            "E": "förslag"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 7,
+        "question": "stävja",
+        "answers": {
+            "A": "påstå",
+            "B": "mjuka upp",
+            "C": "uppmuntra",
+            "D": "röra ihop",
+            "E": "motverka"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 8,
+        "question": "pådrag",
+        "answers": {
+            "A": "sensationell nyhet",
+            "B": "oönskad publicitet",
+            "C": "rättslig följd",
+            "D": "insättning av resurser",
+            "E": "oväntat motstånd"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 9,
+        "question": "hänryckt",
+        "answers": {
+            "A": "i kris",
+            "B": "i fred",
+            "C": "i konflikt",
+            "D": "i extas",
+            "E": "i fara"
+        },
+        "question_type": "ORD"
+    },
+    {
+        "question_number": 10,
+        "question": "ämbete",
+        "answers": {
+            "A": "karriär",
+            "B": "tillfälligt uppdrag",
+            "C": "fin utmärkelse",
+            "D": "högre befattning",
+            "E": "administration"
+        },
+        "question_type": "ORD"
+    }
+]
