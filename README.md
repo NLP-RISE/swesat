@@ -32,7 +32,7 @@ SweSAT-1.0 is a benchmark dataset created from the Swedish university entrance e
 The Swe-SAT-1.0 dataset is partially available [exams](exams) with the exception of reading passages for the LÄS section. To obtain the full dataset including the LÄS section, run the following script:
 
 ```shell
-poetry run python3 process_verbal_sections/get_pdfs.py
+python3 process_verbal_sections/get_pdfs.py
 ```
 
 After running this script, a newly created directory `exam_pdfs` will be populated. Now, run the script to process the verbal sections.
