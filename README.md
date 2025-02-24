@@ -10,41 +10,38 @@ SweSAT-1.0 is a benchmark dataset created from the Swedish university entrance e
 - **NOG** (Data Sufficiency) - Determines the ability to assess whether given data is sufficient to solve a problem.
 
 
+## Install dependencies
+
+- **With [`poetry`](https://python-poetry.org/docs/#installation) (recommended):**
+
+    ```shell
+    poetry shell
+    poetry install # installs all dependencies from lockfile
+    ```
+
+- **With `pip`:**
+        ```shell
+        python -m venv .swe_sat_venv
+        source .swe_sat_venv/bin/activate
+        pip3 install pdfplumber requests
+        ```
+
 ## Dataset
 
-The Swe-SAT-1.0 dataset is partially available [exams](exams) with the exception of reading passages for the LÄS section. To obtain the full dataset including the LÄS section, follow these steps:
+The Swe-SAT-1.0 dataset is partially available [exams](exams) with the exception of reading passages for the LÄS section. To obtain the full dataset including the LÄS section, run the following script:
 
-- Obtain the LÄS section PDFs from [studera.nu](https://www.studera.nu/hogskoleprov/forbered/tidigare-hogskoleprov/) for each year, which can be found under _"Prov och facit"_. This PDFs for the LÄS section all end in `-verb-utan-elf.pdf` for all years.
+```shell
+poetry run python3 process_verbal_sections/get_pdfs.py
+```
 
-- Create a new directory `exam_pdfs` and place the downloaded PDFs inside in the following format:
-
-  ```shell
-  ├── exam_pdfs
-  │   ├── 2023-10-22
-  │   │   └── provpass-3-verb-utan-elf.pdf
-  │   └── 2024-04-13
-  │       └── provpass-4-verb-utan-elf.pdf
-  ```
-
-> [!IMPORTANT]  
-> The structure of the `exam_pdf` directory where the downloaded PDFs land **must** correspond to the structure in [`exams`](exams)
-
-
-- Install `pdfplummer` (this is the only required dependency):
-
-  ```shell
-  # in your virtual environment
-  pip3 install pdfplumber
-  ```
-
-- Run the script to process the verbal sections
+After running this script, a newly created directory `exam_pdfs` will be populated. Now, run the script to process the verbal sections.
   
   ```shell
     python3 process_verbal_sections/parse_exam_pdf.py exam_pdfs
   ```
 
 > [!TIP]  
-> The LÄS and MEK sections may contain copyrighted reading passages. You can inspect the sources of these passages on [studera.nu](https://www.studera.nu/hogskoleprov/forbered/tidigare-hogskoleprov/) for each exam year under _"Källor"_.
+> The LÄS section may contain copyrighted reading passages. You can inspect the sources of these passages on [studera.nu](https://www.studera.nu/hogskoleprov/forbered/tidigare-hogskoleprov/) when clicking on a specific exam year (found under the _"Källor"_ section). :warning: The site is in Swedish!
 
 ## Citation
 
