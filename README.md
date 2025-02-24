@@ -20,11 +20,12 @@ SweSAT-1.0 is a benchmark dataset created from the Swedish university entrance e
     ```
 
 - **With `pip`:**
-        ```shell
-        python -m venv .swe_sat_venv
-        source .swe_sat_venv/bin/activate
-        pip3 install pdfplumber requests
-        ```
+
+    ```shell
+    python -m venv .swe_sat_venv
+    source .swe_sat_venv/bin/activate
+    pip3 install pdfplumber requests
+    ```
 
 ## Dataset
 
