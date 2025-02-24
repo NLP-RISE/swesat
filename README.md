@@ -44,7 +44,7 @@ The Swe-SAT-1.0 dataset is partially available [exams](exams) with the exception
   ```
 
 > [!TIP]  
-> The LÄS section may contain copyrighted reading passages. You can inspect the sources of these passages on [studera.nu](https://www.studera.nu/hogskoleprov/forbered/tidigare-hogskoleprov/) for each exam year under _"Källor"_.
+> The LÄS and MEK sections may contain copyrighted reading passages. You can inspect the sources of these passages on [studera.nu](https://www.studera.nu/hogskoleprov/forbered/tidigare-hogskoleprov/) for each exam year under _"Källor"_.
 
 ## Citation
 
