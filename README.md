@@ -36,9 +36,9 @@ poetry run python3 process_verbal_sections/get_pdfs.py
 
 After running this script, a newly created directory `exam_pdfs` will be populated. Now, run the script to process the verbal sections.
   
-  ```shell
-    python3 process_verbal_sections/parse_exam_pdf.py exam_pdfs
-  ```
+```shell
+python3 process_verbal_sections/parse_exam_pdf.py exam_pdfs
+```
 
 > [!TIP]  
 > The LÄS section may contain copyrighted reading passages. You can inspect the sources of these passages on [studera.nu](https://www.studera.nu/hogskoleprov/forbered/tidigare-hogskoleprov/) when clicking on a specific exam year (found under the _"Källor"_ section). :warning: The site is in Swedish!
