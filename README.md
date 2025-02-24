@@ -26,8 +26,8 @@ The Swe-SAT-1.0 dataset is partially available [exams](exams) with the exception
   │       └── provpass-4-verb-utan-elf.pdf
   ```
 
-  > [!IMPORTANT]  
-  > The structure of the `exam_pdf` directory where the downloaded PDFs land **must** correspond to the structure in [`exams`](exams)
+> [!IMPORTANT]  
+> The structure of the `exam_pdf` directory where the downloaded PDFs land **must** correspond to the structure in [`exams`](exams)
 
 
 - Install `pdfplummer` (this is the only required dependency):
@@ -43,9 +43,8 @@ The Swe-SAT-1.0 dataset is partially available [exams](exams) with the exception
     python3 process_verbal_sections/parse_exam_pdf.py exam_pdfs
   ```
 
-  > [!TIP]  
-  > The LÄS section may contain copyrighted reading passages. You can inspect the sources of these passages on [studera.nu](https://www.studera.nu/hogskoleprov/forbered/tidigare-hogskoleprov/) for each exam year under _"Källor"_.
-
+> [!TIP]  
+> The LÄS section may contain copyrighted reading passages. You can inspect the sources of these passages on [studera.nu](https://www.studera.nu/hogskoleprov/forbered/tidigare-hogskoleprov/) for each exam year under _"Källor"_.
 
 ## Citation
 
